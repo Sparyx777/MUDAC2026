@@ -1,0 +1,436 @@
+﻿FIPS,State,"County, State",Year,Overall Food Insecurity Rate,Ratio (1 in X) Overall,# of Food Insecure Persons Overall,Food Insecurity Rate among Black Persons (all ethnicities),Food Insecurity Rate among Hispanic Persons (any race),"Food Insecurity Rate among White, non-Hispanic Persons",SNAP Threshold,% FI ≤ SNAP Threshold,% FI > SNAP Threshold,Child Food Insecurity Rate,# of Food Insecure Children,% food insecure children in HH w/ HH incomes below 185 FPL,% food insecure children in HH w/ HH incomes above 185 FPL,Cost Per Meal,Weighted weekly $ needed by FI,Weighted Annual Food Budget Shortfall,Rural-Urban Continuum Code (2013),Rural-Urban Continuum Code (2023),Census Region,Census Division,FNS Region
+27001,MN,"Aitkin County, Minnesota",2019,11.8%,8,"1,870",,,9%,165%,67.5%,32.5%,20.0%,530,97%,3%,$3.05,$17.21,"$976,000",8,,Midwest,West North Central,Midwest
+27001,MN,"Aitkin County, Minnesota",2020,10.9%,9,"1,730",,,7%,165%,69.1%,30.9%,17.9%,470,92%,9%,$3.39,$18.00,"$944,000",8,,Midwest,West North Central,Midwest
+27001,MN,"Aitkin County, Minnesota",2021,9.6%,10,"1,510",,,8%,200%,88.5%,11.5%,13.3%,350,98%,2%,$3.94,$22.97,"$1,052,000",8,,Midwest,West North Central,Midwest
+27001,MN,"Aitkin County, Minnesota",2022,13.0%,8,"2,060",,,10%,200%,75.4%,24.6%,19.9%,510,76%,24%,$4.37,$27.07,"$1,692,000",8,8,Midwest,West North Central,Midwest
+27001,MN,"Aitkin County, Minnesota",2023,13.7%,7,"2,190",,,11%,200%,70.6%,29.4%,20.4%,520,67%,33%,$3.80,$23.76,"$1,579,000",8,8,Midwest,West North Central,Midwest
+27003,MN,"Anoka County, Minnesota",2019,5.7%,18,"20,120",18%,18%,5%,165%,56.1%,43.9%,10.1%,"8,450",67%,33%,$3.24,$18.25,"$11,140,000",1,,Midwest,West North Central,Midwest
+27003,MN,"Anoka County, Minnesota",2020,5.4%,19,"19,000",18%,17%,3%,165%,56.1%,43.9%,9.9%,"8,330",69%,31%,$3.42,$18.14,"$10,453,000",1,,Midwest,West North Central,Midwest
+27003,MN,"Anoka County, Minnesota",2021,4.3%,23,"15,350",17%,13%,4%,200%,74.6%,25.4%,6.9%,"5,970",86%,15%,$3.95,$23.03,"$10,721,000",1,,Midwest,West North Central,Midwest
+27003,MN,"Anoka County, Minnesota",2022,7.2%,14,"26,300",23%,19%,6%,200%,56.5%,43.5%,12.6%,"10,820",60%,40%,$4.40,$27.25,"$21,743,000",1,1,Midwest,West North Central,Midwest
+27003,MN,"Anoka County, Minnesota",2023,8.5%,12,"31,330",27%,22%,7%,200%,54.0%,46.0%,13.3%,"11,620",63%,37%,$3.83,$23.96,"$22,770,000",1,1,Midwest,West North Central,Midwest
+27005,MN,"Becker County, Minnesota",2019,9.3%,11,"3,170",,23%,7%,165%,66.7%,33.3%,15.2%,"1,260",93%,7%,$3.36,$18.93,"$1,821,000",6,,Midwest,West North Central,Midwest
+27005,MN,"Becker County, Minnesota",2020,8.5%,12,"2,910",,23%,5%,165%,69.9%,30.1%,13.5%,"1,120",100%,0%,$3.37,$17.90,"$1,580,000",6,,Midwest,West North Central,Midwest
+27005,MN,"Becker County, Minnesota",2021,7.6%,13,"2,670",,23%,5%,200%,88.6%,11.4%,10.5%,900,100%,0%,$3.74,$21.79,"$1,765,000",6,,Midwest,West North Central,Midwest
+27005,MN,"Becker County, Minnesota",2022,10.7%,9,"3,780",,31%,8%,200%,77.1%,22.9%,16.5%,"1,390",93%,7%,$4.17,$25.84,"$2,962,000",6,6,Midwest,West North Central,Midwest
+27005,MN,"Becker County, Minnesota",2023,11.7%,9,"4,120",,32%,9%,200%,68.2%,31.8%,17.1%,"1,420",82%,18%,$3.67,$22.90,"$2,862,000",6,6,Midwest,West North Central,Midwest
+27007,MN,"Beltrami County, Minnesota",2019,12.7%,8,"5,880",34%,28%,9%,165%,75.0%,25.0%,19.1%,"2,240",94%,6%,$3.19,$17.98,"$3,207,000",7,,Midwest,West North Central,Midwest
+27007,MN,"Beltrami County, Minnesota",2020,11.4%,9,"5,340",,26%,7%,165%,72.5%,27.5%,16.8%,"1,980",95%,5%,$3.04,$16.16,"$2,617,000",7,,Midwest,West North Central,Midwest
+27007,MN,"Beltrami County, Minnesota",2021,9.9%,10,"4,560",34%,21%,7%,200%,87.8%,12.2%,12.9%,"1,510",100%,0%,$3.55,$20.67,"$2,859,000",7,,Midwest,West North Central,Midwest
+27007,MN,"Beltrami County, Minnesota",2022,12.9%,8,"5,960",,,10%,200%,82.6%,17.4%,19.1%,"2,190",89%,11%,$3.99,$24.75,"$4,474,000",7,7,Midwest,West North Central,Midwest
+27007,MN,"Beltrami County, Minnesota",2023,13.8%,7,"6,390",,31%,10%,200%,78.1%,21.9%,20.0%,"2,320",88%,12%,$3.51,$21.94,"$4,252,000",7,7,Midwest,West North Central,Midwest
+27009,MN,"Benton County, Minnesota",2019,9.3%,11,"3,750",,22%,8%,165%,63.9%,36.1%,13.2%,"1,330",80%,20%,$3.91,$22.02,"$2,504,000",3,,Midwest,West North Central,Midwest
+27009,MN,"Benton County, Minnesota",2020,8.1%,12,"3,260",23%,19%,6%,165%,63.3%,36.7%,11.7%,"1,200",86%,14%,$3.87,$20.54,"$2,031,000",3,,Midwest,West North Central,Midwest
+27009,MN,"Benton County, Minnesota",2021,7.3%,14,"3,000",27%,19%,6%,200%,77.6%,22.4%,9.1%,960,94%,7%,$4.07,$23.70,"$2,157,000",3,,Midwest,West North Central,Midwest
+27009,MN,"Benton County, Minnesota",2022,10.0%,10,"4,140",32%,28%,8%,200%,68.2%,31.8%,15.2%,"1,610",73%,27%,$4.60,$28.51,"$3,580,000",3,3,Midwest,West North Central,Midwest
+27009,MN,"Benton County, Minnesota",2023,11.5%,9,"4,780",36%,30%,9%,200%,63.0%,37.0%,15.4%,"1,630",72%,28%,$4.11,$25.66,"$3,721,000",3,3,Midwest,West North Central,Midwest
+27011,MN,"Big Stone County, Minnesota",2019,10.1%,10,500,,,8%,165%,66.5%,33.5%,13.5%,140,83%,17%,$3.55,$20.03,"$304,000",9,,Midwest,West North Central,Midwest
+27011,MN,"Big Stone County, Minnesota",2020,8.9%,11,440,,,7%,165%,69.2%,30.8%,11.2%,120,90%,10%,$3.22,$17.10,"$228,000",9,,Midwest,West North Central,Midwest
+27011,MN,"Big Stone County, Minnesota",2021,8.5%,12,440,,,7%,200%,80.8%,19.2%,10.4%,120,98%,3%,$3.56,$20.71,"$276,000",9,,Midwest,West North Central,Midwest
+27011,MN,"Big Stone County, Minnesota",2022,10.8%,9,560,,,8%,200%,72.7%,27.3%,15.6%,170,70%,30%,$3.93,$24.36,"$414,000",9,9,Midwest,West North Central,Midwest
+27011,MN,"Big Stone County, Minnesota",2023,11.9%,8,610,,,9%,200%,68.0%,32.0%,17.9%,200,71%,29%,$3.50,$21.89,"$405,000",9,9,Midwest,West North Central,Midwest
+27013,MN,"Blue Earth County, Minnesota",2019,9.2%,11,"6,120",33%,22%,10%,165%,80.9%,19.1%,11.6%,"1,540",83%,17%,$3.16,$17.78,"$3,301,000",3,,Midwest,West North Central,Midwest
+27013,MN,"Blue Earth County, Minnesota",2020,8.4%,12,"5,670",31%,22%,8%,165%,80.7%,19.3%,11.0%,"1,460",96%,4%,$3.33,$17.65,"$3,035,000",3,,Midwest,West North Central,Midwest
+27013,MN,"Blue Earth County, Minnesota",2021,7.4%,14,"5,070",28%,20%,8%,200%,93.4%,6.6%,8.1%,"1,120",100%,0%,$3.94,$22.94,"$3,528,000",3,,Midwest,West North Central,Midwest
+27013,MN,"Blue Earth County, Minnesota",2022,10.6%,9,"7,350",31%,26%,11%,200%,80.3%,19.7%,14.7%,"1,990",74%,26%,$4.36,$27.01,"$6,022,000",3,3,Midwest,West North Central,Midwest
+27013,MN,"Blue Earth County, Minnesota",2023,11.7%,9,"8,100",37%,28%,11%,200%,75.9%,24.1%,15.5%,"2,150",72%,28%,$3.84,$23.99,"$5,894,000",3,3,Midwest,West North Central,Midwest
+27015,MN,"Brown County, Minnesota",2019,7.1%,14,"1,800",,25%,5%,165%,57.8%,42.2%,10.9%,600,74%,26%,$2.85,$16.07,"$877,000",6,,Midwest,West North Central,Midwest
+27015,MN,"Brown County, Minnesota",2020,6.2%,16,"1,570",,22%,4%,165%,63.1%,36.9%,8.7%,470,96%,4%,$3.12,$16.55,"$788,000",6,,Midwest,West North Central,Midwest
+27015,MN,"Brown County, Minnesota",2021,5.7%,18,"1,490",,21%,5%,200%,89.4%,10.6%,7.2%,410,100%,0%,$3.64,$21.22,"$959,000",6,,Midwest,West North Central,Midwest
+27015,MN,"Brown County, Minnesota",2022,8.9%,11,"2,310",,21%,7%,200%,71.5%,28.5%,12.5%,700,92%,8%,$4.07,$25.22,"$1,767,000",6,6,Midwest,West North Central,Midwest
+27015,MN,"Brown County, Minnesota",2023,9.8%,10,"2,540",,26%,8%,200%,65.6%,34.4%,12.9%,730,82%,18%,$3.68,$22.97,"$1,770,000",6,6,Midwest,West North Central,Midwest
+27017,MN,"Carlton County, Minnesota",2019,9.5%,11,"3,380",,22%,7%,165%,59.3%,40.7%,14.0%,"1,130",79%,21%,$2.82,$15.89,"$1,630,000",2,,Midwest,West North Central,Midwest
+27017,MN,"Carlton County, Minnesota",2020,8.9%,11,"3,160",10%,,6%,165%,59.1%,40.9%,12.5%,"1,000",83%,17%,$3.03,$16.07,"$1,540,000",2,,Midwest,West North Central,Midwest
+27017,MN,"Carlton County, Minnesota",2021,8.3%,12,"3,010",19%,28%,6%,200%,70.5%,29.5%,10.0%,800,95%,6%,$3.58,$20.87,"$1,906,000",2,,Midwest,West North Central,Midwest
+27017,MN,"Carlton County, Minnesota",2022,11.5%,9,"4,200",18%,,9%,200%,61.7%,38.3%,16.2%,"1,300",71%,29%,$4.00,$24.79,"$3,158,000",2,2,Midwest,West North Central,Midwest
+27017,MN,"Carlton County, Minnesota",2023,12.0%,8,"4,380",30%,,9%,200%,59.1%,40.9%,16.3%,"1,310",65%,35%,$3.56,$22.25,"$2,956,000",2,2,Midwest,West North Central,Midwest
+27019,MN,"Carver County, Minnesota",2019,4.5%,22,"4,560",15%,17%,3%,165%,39.9%,60.1%,6.0%,"1,660",47%,53%,$3.64,$20.51,"$2,837,000",1,,Midwest,West North Central,Midwest
+27019,MN,"Carver County, Minnesota",2020,3.6%,28,"3,720",21%,13%,2%,165%,41.7%,58.3%,3.8%,"1,040",59%,41%,$4.06,$21.57,"$2,434,000",1,,Midwest,West North Central,Midwest
+27019,MN,"Carver County, Minnesota",2021,3.1%,32,"3,230",,11%,2%,200%,58.5%,41.5%,1.8%,510,100%,0%,$4.66,$27.15,"$2,660,000",1,,Midwest,West North Central,Midwest
+27019,MN,"Carver County, Minnesota",2022,6.0%,17,"6,470",,17%,4%,200%,38.1%,61.9%,6.6%,"1,830",41%,59%,$5.19,$32.19,"$6,318,000",1,1,Midwest,West North Central,Midwest
+27019,MN,"Carver County, Minnesota",2023,7.3%,14,"7,930",,20%,6%,200%,36.0%,64.0%,7.5%,"2,090",39%,61%,$4.69,$29.33,"$7,055,000",1,1,Midwest,West North Central,Midwest
+27021,MN,"Cass County, Minnesota",2019,11.1%,9,"3,240",,22%,7%,165%,69.9%,30.1%,19.8%,"1,220",94%,6%,$3.37,$18.99,"$1,866,000",9,,Midwest,West North Central,Midwest
+27021,MN,"Cass County, Minnesota",2020,10.8%,9,"3,180",,20%,6%,165%,71.5%,28.5%,18.3%,"1,130",99%,1%,$3.51,$18.65,"$1,799,000",9,,Midwest,West North Central,Midwest
+27021,MN,"Cass County, Minnesota",2021,8.4%,12,"2,500",,18%,7%,200%,93.5%,6.5%,12.8%,810,100%,0%,$3.77,$21.97,"$1,666,000",9,,Midwest,West North Central,Midwest
+27021,MN,"Cass County, Minnesota",2022,11.5%,9,"3,490",,23%,9%,200%,81.1%,18.9%,19.0%,"1,190",94%,6%,$4.37,$27.09,"$2,868,000",9,9,Midwest,West North Central,Midwest
+27021,MN,"Cass County, Minnesota",2023,12.6%,8,"3,860",,28%,9%,200%,75.9%,24.1%,20.1%,"1,250",89%,11%,$4.04,$25.27,"$2,958,000",9,9,Midwest,West North Central,Midwest
+27023,MN,"Chippewa County, Minnesota",2019,9.3%,11,"1,110",,23%,8%,165%,74.1%,25.9%,12.3%,340,99%,1%,$2.95,$16.63,"$560,000",7,,Midwest,West North Central,Midwest
+27023,MN,"Chippewa County, Minnesota",2020,8.3%,12,980,,24%,6%,165%,74.8%,25.2%,12.0%,330,100%,0%,$3.12,$16.58,"$493,000",7,,Midwest,West North Central,Midwest
+27023,MN,"Chippewa County, Minnesota",2021,8.0%,13,"1,000",,21%,7%,200%,88.3%,11.7%,10.1%,300,100%,0%,$3.67,$21.39,"$649,000",7,,Midwest,West North Central,Midwest
+27023,MN,"Chippewa County, Minnesota",2022,11.3%,9,"1,410",,27%,9%,200%,77.8%,22.2%,16.2%,470,86%,14%,$4.10,$25.44,"$1,088,000",7,7,Midwest,West North Central,Midwest
+27023,MN,"Chippewa County, Minnesota",2023,13.0%,8,"1,610",,30%,9%,200%,68.7%,31.3%,18.5%,540,78%,22%,$3.61,$22.58,"$1,103,000",7,7,Midwest,West North Central,Midwest
+27025,MN,"Chisago County, Minnesota",2019,6.4%,16,"3,560",,14%,5%,165%,48.0%,52.0%,10.4%,"1,320",59%,42%,$4.56,$25.69,"$2,775,000",1,,Midwest,West North Central,Midwest
+27025,MN,"Chisago County, Minnesota",2020,6.1%,16,"3,400",,,3%,165%,49.0%,51.0%,8.6%,"1,100",61%,39%,$4.57,$24.26,"$2,502,000",1,,Midwest,West North Central,Midwest
+27025,MN,"Chisago County, Minnesota",2021,5.1%,20,"2,870",,14%,4%,200%,64.7%,35.3%,5.6%,720,78%,22%,$4.61,$26.84,"$2,336,000",1,,Midwest,West North Central,Midwest
+27025,MN,"Chisago County, Minnesota",2022,7.9%,13,"4,480",,,6%,200%,51.2%,48.8%,10.8%,"1,390",50%,50%,$5.08,$31.48,"$4,278,000",1,1,Midwest,West North Central,Midwest
+27025,MN,"Chisago County, Minnesota",2023,8.8%,11,"5,030",,24%,7%,200%,46.9%,53.1%,11.6%,"1,510",46%,54%,$4.91,$30.68,"$4,680,000",1,1,Midwest,West North Central,Midwest
+27027,MN,"Clay County, Minnesota",2019,8.5%,12,"5,360",29%,21%,7%,165%,63.6%,36.4%,11.9%,"1,850",70%,30%,$3.23,$18.18,"$2,956,000",3,,Midwest,West North Central,Midwest
+27027,MN,"Clay County, Minnesota",2020,7.7%,13,"4,950",33%,19%,6%,165%,65.0%,35.0%,10.6%,"1,670",78%,22%,$3.43,$18.19,"$2,731,000",3,,Midwest,West North Central,Midwest
+27027,MN,"Clay County, Minnesota",2021,7.4%,14,"4,800",37%,13%,7%,200%,71.7%,28.3%,9.0%,"1,460",81%,19%,$3.77,$21.98,"$3,200,000",3,,Midwest,West North Central,Midwest
+27027,MN,"Clay County, Minnesota",2022,10.8%,9,"7,050",37%,20%,9%,200%,64.7%,35.3%,15.4%,"2,480",62%,38%,$4.23,$26.21,"$5,605,000",3,3,Midwest,West North Central,Midwest
+27027,MN,"Clay County, Minnesota",2023,11.6%,9,"7,630",41%,24%,10%,200%,61.1%,38.9%,15.8%,"2,570",60%,41%,$3.71,$23.18,"$5,366,000",3,3,Midwest,West North Central,Midwest
+27029,MN,"Clearwater County, Minnesota",2019,13.6%,7,"1,200",,,9%,165%,65.6%,34.4%,21.3%,470,88%,12%,$3.25,$18.32,"$667,000",8,,Midwest,West North Central,Midwest
+27029,MN,"Clearwater County, Minnesota",2020,12.2%,8,"1,080",,,7%,165%,67.5%,32.5%,16.8%,370,86%,14%,$3.04,$16.16,"$529,000",8,,Midwest,West North Central,Midwest
+27029,MN,"Clearwater County, Minnesota",2021,10.1%,10,860,,,8%,200%,85.5%,14.5%,12.1%,260,98%,2%,$3.55,$20.67,"$539,000",8,,Midwest,West North Central,Midwest
+27029,MN,"Clearwater County, Minnesota",2022,13.1%,8,"1,120",,,10%,200%,74.5%,25.5%,17.9%,380,75%,25%,$3.99,$24.75,"$841,000",8,8,Midwest,West North Central,Midwest
+27029,MN,"Clearwater County, Minnesota",2023,13.5%,7,"1,160",,,10%,200%,70.7%,29.3%,18.3%,390,72%,28%,$3.51,$21.94,"$772,000",8,8,Midwest,West North Central,Midwest
+27031,MN,"Cook County, Minnesota",2019,10.4%,10,560,,,7%,165%,58.3%,41.7%,15.8%,130,86%,14%,$3.15,$17.74,"$301,000",9,,Midwest,West North Central,Midwest
+27031,MN,"Cook County, Minnesota",2020,9.6%,10,520,,,4%,165%,58.5%,41.5%,14.2%,120,85%,15%,$3.36,$17.85,"$282,000",9,,Midwest,West North Central,Midwest
+27031,MN,"Cook County, Minnesota",2021,7.6%,13,420,,,4%,200%,69.0%,31.0%,10.7%,90,89%,11%,$3.67,$21.37,"$272,000",9,,Midwest,West North Central,Midwest
+27031,MN,"Cook County, Minnesota",2022,10.0%,10,560,,,6%,200%,58.1%,41.9%,16.1%,130,70%,30%,$4.04,$25.01,"$425,000",9,9,Midwest,West North Central,Midwest
+27031,MN,"Cook County, Minnesota",2023,11.6%,9,650,,,8%,200%,56.1%,43.9%,19.8%,170,74%,26%,$3.67,$22.95,"$452,000",9,9,Midwest,West North Central,Midwest
+27033,MN,"Cottonwood County, Minnesota",2019,9.5%,11,"1,070",,21%,7%,165%,73.0%,27.0%,13.4%,370,100%,0%,$2.96,$16.67,"$541,000",7,,Midwest,West North Central,Midwest
+27033,MN,"Cottonwood County, Minnesota",2020,8.3%,12,930,,20%,7%,165%,77.0%,23.0%,10.7%,290,100%,0%,$2.96,$15.71,"$443,000",7,,Midwest,West North Central,Midwest
+27033,MN,"Cottonwood County, Minnesota",2021,7.6%,13,870,,17%,7%,200%,86.7%,13.3%,9.2%,260,100%,0%,$3.33,$19.37,"$511,000",7,,Midwest,West North Central,Midwest
+27033,MN,"Cottonwood County, Minnesota",2022,11.4%,9,"1,310",,24%,9%,200%,72.6%,27.4%,15.9%,450,81%,19%,$3.67,$22.77,"$905,000",7,9,Midwest,West North Central,Midwest
+27033,MN,"Cottonwood County, Minnesota",2023,13.2%,8,"1,510",,27%,10%,200%,68.5%,31.5%,17.9%,520,83%,17%,$3.23,$20.16,"$924,000",7,9,Midwest,West North Central,Midwest
+27035,MN,"Crow Wing County, Minnesota",2019,9.8%,10,"6,280",,20%,8%,165%,61.6%,38.4%,15.3%,"2,140",80%,20%,$3.11,$17.53,"$3,339,000",4,,Midwest,West North Central,Midwest
+27035,MN,"Crow Wing County, Minnesota",2020,9.0%,11,"5,830",,19%,6%,165%,64.4%,35.6%,13.9%,"1,930",93%,7%,$3.39,$18.00,"$3,183,000",4,,Midwest,West North Central,Midwest
+27035,MN,"Crow Wing County, Minnesota",2021,7.9%,13,"5,180",,21%,7%,200%,87.9%,12.1%,10.8%,"1,540",100%,0%,$3.94,$22.97,"$3,609,000",4,,Midwest,West North Central,Midwest
+27035,MN,"Crow Wing County, Minnesota",2022,10.8%,9,"7,200",,26%,9%,200%,74.7%,25.3%,16.6%,"2,310",85%,15%,$4.37,$27.07,"$5,913,000",4,4,Midwest,West North Central,Midwest
+27035,MN,"Crow Wing County, Minnesota",2023,11.6%,9,"7,790",,29%,10%,200%,67.2%,32.8%,16.9%,"2,360",83%,17%,$3.80,$23.76,"$5,615,000",4,4,Midwest,West North Central,Midwest
+27037,MN,"Dakota County, Minnesota",2019,5.8%,17,"24,300",20%,20%,5%,165%,54.5%,45.5%,9.2%,"9,500",67%,34%,$3.48,$19.61,"$14,454,000",1,,Midwest,West North Central,Midwest
+27037,MN,"Dakota County, Minnesota",2020,5.4%,19,"23,150",19%,19%,3%,165%,55.7%,44.3%,9.6%,"9,930",72%,28%,$3.65,$19.40,"$13,622,000",1,,Midwest,West North Central,Midwest
+27037,MN,"Dakota County, Minnesota",2021,4.1%,24,"18,030",19%,17%,3%,200%,72.4%,27.6%,6.0%,"6,400",87%,13%,$4.18,$24.33,"$13,305,000",1,,Midwest,West North Central,Midwest
+27037,MN,"Dakota County, Minnesota",2022,7.1%,14,"31,260",22%,23%,6%,200%,53.2%,46.8%,11.4%,"12,040",56%,44%,$4.60,$28.50,"$27,023,000",1,1,Midwest,West North Central,Midwest
+27037,MN,"Dakota County, Minnesota",2023,8.5%,12,"37,370",28%,24%,6%,200%,48.9%,51.1%,11.8%,"12,640",56%,44%,$4.01,$25.08,"$28,430,000",1,1,Midwest,West North Central,Midwest
+27039,MN,"Dodge County, Minnesota",2019,5.5%,18,"1,130",,19%,4%,165%,57.1%,42.9%,8.8%,480,88%,12%,$3.66,$20.62,"$707,000",3,,Midwest,West North Central,Midwest
+27039,MN,"Dodge County, Minnesota",2020,4.5%,22,930,,18%,2%,165%,64.2%,35.8%,7.0%,380,100%,0%,$3.58,$18.99,"$536,000",3,,Midwest,West North Central,Midwest
+27039,MN,"Dodge County, Minnesota",2021,3.9%,26,810,,15%,3%,200%,85.0%,15.0%,4.8%,260,100%,0%,$4.20,$24.44,"$600,000",3,,Midwest,West North Central,Midwest
+27039,MN,"Dodge County, Minnesota",2022,7.0%,14,"1,450",,22%,5%,200%,58.2%,41.8%,10.2%,540,65%,35%,$4.67,$28.97,"$1,274,000",3,3,Midwest,West North Central,Midwest
+27039,MN,"Dodge County, Minnesota",2023,8.0%,13,"1,690",,23%,6%,200%,51.0%,49.0%,11.1%,590,53%,47%,$4.04,$25.24,"$1,294,000",3,3,Midwest,West North Central,Midwest
+27041,MN,"Douglas County, Minnesota",2019,8.0%,13,"3,010",,21%,7%,165%,59.6%,40.4%,11.4%,920,84%,16%,$3.02,$17.01,"$1,553,000",6,,Midwest,West North Central,Midwest
+27041,MN,"Douglas County, Minnesota",2020,6.9%,14,"2,610",,21%,5%,165%,60.9%,39.1%,8.3%,680,100%,0%,$3.23,$17.14,"$1,357,000",6,,Midwest,West North Central,Midwest
+27041,MN,"Douglas County, Minnesota",2021,6.2%,16,"2,390",,18%,5%,200%,79.7%,20.3%,6.5%,550,100%,0%,$3.74,$21.76,"$1,577,000",6,,Midwest,West North Central,Midwest
+27041,MN,"Douglas County, Minnesota",2022,9.1%,11,"3,570",,26%,7%,200%,66.2%,33.8%,12.8%,"1,070",79%,21%,$4.18,$25.93,"$2,808,000",6,6,Midwest,West North Central,Midwest
+27041,MN,"Douglas County, Minnesota",2023,10.0%,10,"3,930",,23%,8%,200%,59.3%,40.7%,12.9%,"1,090",68%,32%,$3.67,$22.91,"$2,731,000",6,6,Midwest,West North Central,Midwest
+27043,MN,"Faribault County, Minnesota",2019,9.3%,11,"1,280",,25%,7%,165%,66.6%,33.4%,14.8%,450,86%,14%,$3.13,$17.65,"$685,000",6,,Midwest,West North Central,Midwest
+27043,MN,"Faribault County, Minnesota",2020,8.4%,12,"1,150",,23%,5%,165%,64.7%,35.3%,12.6%,380,87%,13%,$3.25,$17.27,"$602,000",6,,Midwest,West North Central,Midwest
+27043,MN,"Faribault County, Minnesota",2021,7.7%,13,"1,080",,24%,6%,200%,90.2%,9.8%,10.5%,330,100%,0%,$3.72,$21.66,"$710,000",6,,Midwest,West North Central,Midwest
+27043,MN,"Faribault County, Minnesota",2022,10.7%,9,"1,490",,29%,8%,200%,75.2%,24.8%,16.3%,500,88%,12%,$4.06,$25.16,"$1,137,000",6,8,Midwest,West North Central,Midwest
+27043,MN,"Faribault County, Minnesota",2023,11.8%,8,"1,650",,29%,9%,200%,75.4%,24.6%,17.2%,520,92%,8%,$3.59,$22.46,"$1,124,000",6,8,Midwest,West North Central,Midwest
+27045,MN,"Fillmore County, Minnesota",2019,8.3%,12,"1,750",,,7%,165%,60.6%,39.4%,13.7%,700,84%,16%,$3.68,$20.73,"$1,100,000",3,,Midwest,West North Central,Midwest
+27045,MN,"Fillmore County, Minnesota",2020,6.9%,14,"1,460",,,5%,165%,66.4%,33.6%,9.9%,510,100%,0%,$3.68,$19.54,"$866,000",3,,Midwest,West North Central,Midwest
+27045,MN,"Fillmore County, Minnesota",2021,6.0%,17,"1,260",,,5%,200%,92.3%,7.7%,7.1%,380,100%,0%,$4.06,$23.65,"$904,000",3,,Midwest,West North Central,Midwest
+27045,MN,"Fillmore County, Minnesota",2022,9.0%,11,"1,920",,,7%,200%,71.6%,28.4%,13.0%,680,79%,21%,$4.58,$28.40,"$1,654,000",3,3,Midwest,West North Central,Midwest
+27045,MN,"Fillmore County, Minnesota",2023,9.9%,10,"2,110",,,8%,200%,64.2%,35.8%,14.2%,740,70%,30%,$4.27,$26.66,"$1,707,000",3,3,Midwest,West North Central,Midwest
+27047,MN,"Freeborn County, Minnesota",2019,9.0%,11,"2,730",,22%,8%,165%,74.3%,25.7%,14.2%,950,100%,0%,$3.23,$18.20,"$1,507,000",7,,Midwest,West North Central,Midwest
+27047,MN,"Freeborn County, Minnesota",2020,7.6%,13,"2,320",,20%,5%,165%,79.4%,20.6%,12.0%,800,100%,0%,$3.25,$17.27,"$1,215,000",7,,Midwest,West North Central,Midwest
+27047,MN,"Freeborn County, Minnesota",2021,6.9%,14,"2,140",,20%,5%,200%,94.3%,5.7%,9.5%,650,100%,0%,$3.64,$21.22,"$1,377,000",7,,Midwest,West North Central,Midwest
+27047,MN,"Freeborn County, Minnesota",2022,10.0%,10,"3,080",,27%,8%,200%,82.0%,18.0%,15.2%,"1,020",95%,5%,$4.06,$25.16,"$2,350,000",7,7,Midwest,West North Central,Midwest
+27047,MN,"Freeborn County, Minnesota",2023,11.0%,9,"3,370",,31%,8%,200%,75.6%,24.4%,14.2%,960,81%,19%,$3.59,$22.46,"$2,296,000",7,7,Midwest,West North Central,Midwest
+27049,MN,"Goodhue County, Minnesota",2019,7.9%,13,"3,650",38%,18%,7%,165%,56.1%,43.9%,11.7%,"1,210",78%,22%,$3.05,$17.17,"$1,901,000",4,,Midwest,West North Central,Midwest
+27049,MN,"Goodhue County, Minnesota",2020,7.0%,14,"3,250",39%,16%,5%,165%,53.8%,46.2%,9.8%,"1,000",87%,13%,$3.27,$17.35,"$1,710,000",4,,Midwest,West North Central,Midwest
+27049,MN,"Goodhue County, Minnesota",2021,5.9%,17,"2,810",40%,14%,5%,200%,71.3%,28.7%,6.8%,720,100%,0%,$3.80,$22.15,"$1,888,000",4,,Midwest,West North Central,Midwest
+27049,MN,"Goodhue County, Minnesota",2022,9.0%,11,"4,300",49%,20%,7%,200%,60.7%,39.3%,12.7%,"1,330",68%,32%,$4.24,$26.27,"$3,427,000",4,6,Midwest,West North Central,Midwest
+27049,MN,"Goodhue County, Minnesota",2023,10.1%,10,"4,810",53%,23%,8%,200%,57.4%,42.6%,13.6%,"1,440",65%,35%,$3.79,$23.70,"$3,458,000",4,6,Midwest,West North Central,Midwest
+27051,MN,"Grant County, Minnesota",2019,9.7%,10,580,,,8%,165%,68.8%,31.2%,15.4%,200,96%,4%,$2.96,$16.68,"$293,000",9,,Midwest,West North Central,Midwest
+27051,MN,"Grant County, Minnesota",2020,7.9%,13,470,,,6%,165%,72.8%,27.2%,12.7%,170,100%,0%,$3.23,$17.14,"$244,000",9,,Midwest,West North Central,Midwest
+27051,MN,"Grant County, Minnesota",2021,7.0%,14,420,,,6%,200%,100.0%,0.0%,9.9%,140,100%,0%,$3.74,$21.76,"$277,000",9,,Midwest,West North Central,Midwest
+27051,MN,"Grant County, Minnesota",2022,10.4%,10,630,,,9%,200%,84.0%,16.0%,17.1%,240,79%,21%,$4.18,$25.93,"$496,000",9,9,Midwest,West North Central,Midwest
+27051,MN,"Grant County, Minnesota",2023,11.6%,9,710,,,9%,200%,78.3%,21.7%,18.4%,260,78%,21%,$3.67,$22.91,"$493,000",9,9,Midwest,West North Central,Midwest
+27053,MN,"Hennepin County, Minnesota",2019,7.7%,13,"95,680",26%,21%,6%,165%,64.9%,35.1%,11.5%,"31,520",68%,33%,$3.69,$20.77,"$60,292,000",1,,Midwest,West North Central,Midwest
+27053,MN,"Hennepin County, Minnesota",2020,7.5%,13,"94,710",25%,19%,4%,165%,60.9%,39.1%,12.9%,"35,590",73%,27%,$4.00,$21.23,"$60,993,000",1,,Midwest,West North Central,Midwest
+27053,MN,"Hennepin County, Minnesota",2021,6.1%,16,"76,870",26%,16%,5%,200%,68.3%,31.7%,9.2%,"25,650",86%,14%,$4.53,$26.41,"$61,575,000",1,,Midwest,West North Central,Midwest
+27053,MN,"Hennepin County, Minnesota",2022,8.7%,11,"110,400",31%,23%,7%,200%,58.8%,41.2%,14.3%,"39,250",65%,35%,$4.99,$30.94,"$103,605,000",1,1,Midwest,West North Central,Midwest
+27053,MN,"Hennepin County, Minnesota",2023,10.3%,10,"131,040",35%,25%,8%,200%,54.1%,45.9%,14.5%,"40,020",65%,35%,$4.44,$27.76,"$110,358,000",1,1,Midwest,West North Central,Midwest
+27055,MN,"Houston County, Minnesota",2019,7.4%,14,"1,390",,,6%,165%,52.4%,47.6%,11.3%,460,64%,36%,$3.30,$18.57,"$783,000",3,,Midwest,West North Central,Midwest
+27055,MN,"Houston County, Minnesota",2020,6.0%,17,"1,120",,,4%,165%,60.7%,39.3%,8.7%,360,86%,14%,$3.43,$18.19,"$618,000",3,,Midwest,West North Central,Midwest
+27055,MN,"Houston County, Minnesota",2021,5.4%,19,"1,010",,,4%,200%,82.9%,17.1%,6.4%,270,98%,2%,$4.00,$23.31,"$714,000",3,,Midwest,West North Central,Midwest
+27055,MN,"Houston County, Minnesota",2022,8.4%,12,"1,570",,,6%,200%,63.7%,36.3%,10.9%,440,68%,32%,$4.45,$27.60,"$1,314,000",3,3,Midwest,West North Central,Midwest
+27055,MN,"Houston County, Minnesota",2023,8.9%,11,"1,670",,,7%,200%,60.4%,39.6%,10.8%,440,63%,37%,$3.94,$24.63,"$1,247,000",3,3,Midwest,West North Central,Midwest
+27057,MN,"Hubbard County, Minnesota",2019,10.5%,10,"2,220",,,8%,165%,62.0%,38.0%,17.4%,770,78%,22%,$3.30,$18.57,"$1,251,000",7,,Midwest,West North Central,Midwest
+27057,MN,"Hubbard County, Minnesota",2020,9.2%,11,"1,970",,,6%,165%,64.9%,35.1%,14.5%,650,86%,14%,$3.20,$16.99,"$1,015,000",7,,Midwest,West North Central,Midwest
+27057,MN,"Hubbard County, Minnesota",2021,7.7%,13,"1,630",,26%,6%,200%,83.9%,16.1%,10.2%,460,100%,0%,$3.50,$20.40,"$1,009,000",7,,Midwest,West North Central,Midwest
+27057,MN,"Hubbard County, Minnesota",2022,11.0%,9,"2,360",,32%,8%,200%,72.6%,27.4%,15.7%,710,79%,21%,$3.94,$24.39,"$1,746,000",7,9,Midwest,West North Central,Midwest
+27057,MN,"Hubbard County, Minnesota",2023,11.7%,9,"2,530",,,9%,200%,71.1%,28.9%,15.3%,700,85%,15%,$3.47,$21.68,"$1,663,000",7,9,Midwest,West North Central,Midwest
+27059,MN,"Isanti County, Minnesota",2019,7.8%,13,"3,080",,18%,6%,165%,51.6%,48.4%,12.3%,"1,160",79%,21%,$3.07,$17.30,"$1,616,000",1,,Midwest,West North Central,Midwest
+27059,MN,"Isanti County, Minnesota",2020,7.0%,14,"2,810",,19%,4%,165%,59.4%,40.6%,10.7%,"1,010",92%,8%,$3.28,$17.41,"$1,484,000",1,,Midwest,West North Central,Midwest
+27059,MN,"Isanti County, Minnesota",2021,6.7%,15,"2,710",,,5%,200%,73.9%,26.1%,8.4%,810,97%,3%,$3.82,$22.23,"$1,828,000",1,,Midwest,West North Central,Midwest
+27059,MN,"Isanti County, Minnesota",2022,9.5%,11,"3,940",,,7%,200%,63.2%,36.8%,13.9%,"1,330",69%,31%,$4.25,$26.33,"$3,146,000",1,1,Midwest,West North Central,Midwest
+27059,MN,"Isanti County, Minnesota",2023,10.2%,10,"4,270",,,8%,200%,59.2%,40.8%,14.0%,"1,360",63%,37%,$3.74,$23.35,"$3,024,000",1,1,Midwest,West North Central,Midwest
+27061,MN,"Itasca County, Minnesota",2019,11.1%,9,"4,990",,21%,9%,165%,62.1%,37.9%,17.6%,"1,670",82%,18%,$2.82,$15.88,"$2,404,000",6,,Midwest,West North Central,Midwest
+27061,MN,"Itasca County, Minnesota",2020,10.5%,10,"4,760",,19%,7%,165%,63.7%,36.3%,15.9%,"1,490",80%,20%,$3.05,$16.20,"$2,338,000",6,,Midwest,West North Central,Midwest
+27061,MN,"Itasca County, Minnesota",2021,8.6%,12,"3,850",,15%,8%,200%,87.4%,12.6%,11.3%,"1,060",88%,12%,$3.58,$20.85,"$2,435,000",6,,Midwest,West North Central,Midwest
+27061,MN,"Itasca County, Minnesota",2022,12.2%,8,"5,480",,20%,10%,200%,71.6%,28.4%,17.7%,"1,620",65%,35%,$4.02,$24.89,"$4,137,000",6,6,Midwest,West North Central,Midwest
+27061,MN,"Itasca County, Minnesota",2023,13.3%,8,"6,010",,24%,10%,200%,68.5%,31.5%,19.5%,"1,790",68%,32%,$3.54,$22.10,"$4,029,000",6,6,Midwest,West North Central,Midwest
+27063,MN,"Jackson County, Minnesota",2019,7.2%,14,720,,,6%,165%,70.0%,30.0%,11.9%,260,95%,5%,$3.13,$17.62,"$385,000",7,,Midwest,West North Central,Midwest
+27063,MN,"Jackson County, Minnesota",2020,6.0%,17,600,,,4%,165%,70.3%,29.7%,9.5%,200,91%,9%,$2.96,$15.71,"$286,000",7,,Midwest,West North Central,Midwest
+27063,MN,"Jackson County, Minnesota",2021,6.2%,16,620,,,5%,200%,100.0%,0.0%,8.7%,190,100%,0%,$3.33,$19.37,"$364,000",7,,Midwest,West North Central,Midwest
+27063,MN,"Jackson County, Minnesota",2022,9.5%,11,950,,,8%,200%,74.0%,26.0%,14.8%,320,69%,31%,$3.67,$22.77,"$656,000",7,9,Midwest,West North Central,Midwest
+27063,MN,"Jackson County, Minnesota",2023,10.5%,10,"1,040",,,8%,200%,69.0%,31.0%,15.0%,330,63%,37%,$3.23,$20.16,"$636,000",7,9,Midwest,West North Central,Midwest
+27065,MN,"Kanabec County, Minnesota",2019,10.2%,10,"1,640",,,7%,165%,66.4%,33.6%,16.6%,570,86%,14%,$3.28,$18.51,"$921,000",6,,Midwest,West North Central,Midwest
+27065,MN,"Kanabec County, Minnesota",2020,9.3%,11,"1,500",,,6%,165%,70.2%,29.8%,14.0%,490,89%,11%,$2.99,$15.88,"$723,000",6,,Midwest,West North Central,Midwest
+27065,MN,"Kanabec County, Minnesota",2021,8.0%,13,"1,280",,,6%,200%,95.6%,4.4%,10.4%,360,100%,0%,$3.54,$20.60,"$800,000",6,,Midwest,West North Central,Midwest
+27065,MN,"Kanabec County, Minnesota",2022,11.0%,9,"1,770",,,8%,200%,80.3%,19.7%,16.2%,560,84%,16%,$3.94,$24.41,"$1,311,000",6,8,Midwest,West North Central,Midwest
+27065,MN,"Kanabec County, Minnesota",2023,12.0%,8,"1,960",,,9%,200%,74.9%,25.1%,16.7%,580,80%,20%,$3.51,$21.94,"$1,304,000",6,8,Midwest,West North Central,Midwest
+27067,MN,"Kandiyohi County, Minnesota",2019,8.2%,12,"3,500",38%,22%,6%,165%,82.4%,17.6%,13.8%,"1,440",100%,1%,$2.96,$16.70,"$1,773,000",4,,Midwest,West North Central,Midwest
+27067,MN,"Kandiyohi County, Minnesota",2020,6.8%,15,"2,910",34%,20%,4%,165%,84.5%,15.5%,12.6%,"1,310",100%,0%,$3.12,$16.58,"$1,464,000",4,,Midwest,West North Central,Midwest
+27067,MN,"Kandiyohi County, Minnesota",2021,6.9%,14,"3,000",34%,18%,5%,200%,86.8%,13.2%,10.9%,"1,170",98%,2%,$3.67,$21.39,"$1,946,000",4,,Midwest,West North Central,Midwest
+27067,MN,"Kandiyohi County, Minnesota",2022,10.0%,10,"4,380",40%,27%,7%,200%,75.6%,24.4%,17.2%,"1,830",78%,22%,$4.10,$25.44,"$3,380,000",4,4,Midwest,West North Central,Midwest
+27067,MN,"Kandiyohi County, Minnesota",2023,11.3%,9,"4,930",,27%,8%,200%,69.2%,30.8%,16.7%,"1,790",76%,24%,$3.61,$22.58,"$3,376,000",4,4,Midwest,West North Central,Midwest
+27069,MN,"Kittson County, Minnesota",2019,9.0%,11,390,,,7%,165%,59.3%,40.7%,13.6%,130,83%,17%,$3.23,$18.20,"$215,000",9,,Midwest,West North Central,Midwest
+27069,MN,"Kittson County, Minnesota",2020,8.0%,13,340,,,6%,165%,61.6%,38.4%,10.0%,90,85%,15%,$3.19,$16.95,"$175,000",9,,Midwest,West North Central,Midwest
+27069,MN,"Kittson County, Minnesota",2021,6.2%,16,260,,,6%,200%,83.5%,16.5%,6.6%,60,95%,5%,$3.71,$21.59,"$170,000",9,,Midwest,West North Central,Midwest
+27069,MN,"Kittson County, Minnesota",2022,9.8%,10,410,,,8%,200%,65.5%,34.5%,12.1%,110,62%,38%,$4.10,$25.43,"$316,000",9,9,Midwest,West North Central,Midwest
+27069,MN,"Kittson County, Minnesota",2023,10.2%,10,430,,,9%,200%,60.6%,39.4%,12.2%,110,50%,50%,$3.55,$22.18,"$289,000",9,9,Midwest,West North Central,Midwest
+27071,MN,"Koochiching County, Minnesota",2019,12.6%,8,"1,580",,,10%,165%,62.8%,37.2%,20.1%,460,91%,9%,$3.13,$17.65,"$846,000",6,,Midwest,West North Central,Midwest
+27071,MN,"Koochiching County, Minnesota",2020,10.5%,10,"1,300",,,8%,165%,61.2%,38.8%,15.7%,350,86%,14%,$3.05,$16.20,"$639,000",6,,Midwest,West North Central,Midwest
+27071,MN,"Koochiching County, Minnesota",2021,9.2%,11,"1,120",,,8%,200%,79.4%,20.6%,13.6%,300,84%,16%,$3.58,$20.85,"$708,000",6,,Midwest,West North Central,Midwest
+27071,MN,"Koochiching County, Minnesota",2022,12.3%,8,"1,490",,,10%,200%,66.4%,33.6%,20.5%,440,72%,28%,$4.02,$24.89,"$1,125,000",6,7,Midwest,West North Central,Midwest
+27071,MN,"Koochiching County, Minnesota",2023,12.9%,8,"1,540",,,10%,200%,60.0%,40.0%,20.0%,420,73%,27%,$3.54,$22.10,"$1,032,000",6,7,Midwest,West North Central,Midwest
+27073,MN,"Lac qui Parle County, Minnesota",2019,8.5%,12,570,,,7%,165%,61.5%,38.5%,12.3%,160,76%,24%,$3.21,$18.10,"$313,000",9,,Midwest,West North Central,Midwest
+27073,MN,"Lac qui Parle County, Minnesota",2020,7.2%,14,480,,,5%,165%,64.9%,35.1%,9.8%,130,87%,13%,$3.07,$16.29,"$237,000",9,,Midwest,West North Central,Midwest
+27073,MN,"Lac qui Parle County, Minnesota",2021,6.3%,16,420,,,5%,200%,85.7%,14.3%,7.7%,110,91%,9%,$3.59,$20.89,"$266,000",9,,Midwest,West North Central,Midwest
+27073,MN,"Lac qui Parle County, Minnesota",2022,9.8%,10,660,,,7%,200%,68.7%,31.3%,14.2%,200,61%,39%,$3.99,$24.76,"$496,000",9,9,Midwest,West North Central,Midwest
+27073,MN,"Lac qui Parle County, Minnesota",2023,10.3%,10,690,,,8%,200%,65.0%,35.0%,14.0%,200,58%,42%,$3.55,$22.21,"$465,000",9,9,Midwest,West North Central,Midwest
+27075,MN,"Lake County, Minnesota",2019,8.8%,11,930,,,7%,165%,56.0%,44.0%,14.1%,260,72%,29%,$3.10,$17.46,"$493,000",6,,Midwest,West North Central,Midwest
+27075,MN,"Lake County, Minnesota",2020,8.2%,12,870,,,5%,165%,59.7%,40.3%,12.4%,230,71%,30%,$3.31,$17.56,"$463,000",6,,Midwest,West North Central,Midwest
+27075,MN,"Lake County, Minnesota",2021,6.8%,15,730,,,6%,200%,82.6%,17.4%,8.0%,160,87%,13%,$3.91,$22.77,"$504,000",6,,Midwest,West North Central,Midwest
+27075,MN,"Lake County, Minnesota",2022,11.0%,9,"1,200",,,8%,200%,64.7%,35.3%,14.8%,310,59%,41%,$4.25,$26.33,"$959,000",6,8,Midwest,West North Central,Midwest
+27075,MN,"Lake County, Minnesota",2023,11.1%,9,"1,210",,,8%,200%,64.3%,35.7%,15.7%,330,70%,30%,$3.75,$23.44,"$860,000",6,8,Midwest,West North Central,Midwest
+27077,MN,"Lake of the Woods County, Minnesota",2019,9.1%,11,340,,,7%,165%,66.9%,33.1%,16.8%,130,84%,16%,$3.20,$18.06,"$186,000",9,,Midwest,West North Central,Midwest
+27077,MN,"Lake of the Woods County, Minnesota",2020,7.2%,14,270,,,4%,165%,74.0%,26.0%,14.7%,110,100%,0%,$3.04,$16.16,"$132,000",9,,Midwest,West North Central,Midwest
+27077,MN,"Lake of the Woods County, Minnesota",2021,7.7%,13,290,,,5%,200%,83.6%,16.4%,10.7%,80,100%,0%,$3.55,$20.67,"$182,000",9,,Midwest,West North Central,Midwest
+27077,MN,"Lake of the Woods County, Minnesota",2022,10.3%,10,390,,,7%,200%,82.2%,17.8%,18.2%,130,100%,0%,$3.99,$24.75,"$293,000",9,9,Midwest,West North Central,Midwest
+27077,MN,"Lake of the Woods County, Minnesota",2023,10.2%,10,390,,,8%,200%,78.6%,21.4%,16.2%,120,99%,1%,$3.51,$21.94,"$260,000",9,9,Midwest,West North Central,Midwest
+27079,MN,"Le Sueur County, Minnesota",2019,7.8%,13,"2,190",,26%,5%,165%,56.1%,43.9%,13.0%,880,80%,20%,$4.10,$23.12,"$1,536,000",1,,Midwest,West North Central,Midwest
+27079,MN,"Le Sueur County, Minnesota",2020,6.9%,14,"1,970",,23%,4%,165%,56.2%,43.8%,10.6%,720,82%,18%,$4.31,$22.89,"$1,368,000",1,,Midwest,West North Central,Midwest
+27079,MN,"Le Sueur County, Minnesota",2021,5.8%,17,"1,660",,18%,4%,200%,75.9%,24.1%,7.1%,480,97%,3%,$4.43,$25.78,"$1,298,000",1,,Midwest,West North Central,Midwest
+27079,MN,"Le Sueur County, Minnesota",2022,8.7%,11,"2,500",,,6%,200%,59.3%,40.7%,12.4%,840,68%,32%,$4.68,$29.03,"$2,201,000",1,1,Midwest,West North Central,Midwest
+27079,MN,"Le Sueur County, Minnesota",2023,9.9%,10,"2,870",,,7%,200%,53.2%,46.8%,12.6%,850,55%,45%,$4.32,$26.98,"$2,349,000",1,1,Midwest,West North Central,Midwest
+27081,MN,"Lincoln County, Minnesota",2019,9.3%,11,530,,,7%,165%,60.7%,39.3%,13.6%,180,74%,27%,$3.09,$17.39,"$280,000",9,,Midwest,West North Central,Midwest
+27081,MN,"Lincoln County, Minnesota",2020,7.7%,13,440,,,6%,165%,71.2%,28.8%,10.2%,140,100%,0%,$3.07,$16.29,"$217,000",9,,Midwest,West North Central,Midwest
+27081,MN,"Lincoln County, Minnesota",2021,6.8%,15,380,,,5%,200%,88.2%,11.8%,7.0%,90,100%,0%,$3.59,$20.89,"$241,000",9,,Midwest,West North Central,Midwest
+27081,MN,"Lincoln County, Minnesota",2022,9.8%,10,550,,,8%,200%,75.4%,24.6%,12.7%,170,92%,8%,$3.99,$24.76,"$413,000",9,9,Midwest,West North Central,Midwest
+27081,MN,"Lincoln County, Minnesota",2023,10.7%,9,600,,,8%,200%,67.8%,32.2%,13.4%,170,76%,24%,$3.55,$22.21,"$404,000",9,9,Midwest,West North Central,Midwest
+27083,MN,"Lyon County, Minnesota",2019,9.4%,11,"2,420",,30%,7%,165%,71.2%,28.8%,13.9%,910,90%,10%,$2.84,$15.98,"$1,173,000",7,,Midwest,West North Central,Midwest
+27083,MN,"Lyon County, Minnesota",2020,7.8%,13,"2,000",,28%,5%,165%,72.8%,27.2%,11.1%,730,100%,0%,$3.07,$16.29,"$988,000",7,,Midwest,West North Central,Midwest
+27083,MN,"Lyon County, Minnesota",2021,7.1%,14,"1,810",32%,22%,6%,200%,95.0%,5.0%,9.0%,600,100%,0%,$3.59,$20.89,"$1,147,000",7,,Midwest,West North Central,Midwest
+27083,MN,"Lyon County, Minnesota",2022,10.6%,9,"2,690",26%,30%,8%,200%,78.5%,21.5%,15.3%,"1,010",78%,22%,$3.99,$24.76,"$2,020,000",7,7,Midwest,West North Central,Midwest
+27083,MN,"Lyon County, Minnesota",2023,11.5%,9,"2,940",39%,30%,9%,200%,76.5%,23.5%,15.3%,"1,010",74%,26%,$3.55,$22.21,"$1,981,000",7,7,Midwest,West North Central,Midwest
+27085,MN,"McLeod County, Minnesota",2019,7.9%,13,"2,840",,24%,7%,165%,65.6%,34.4%,12.5%,"1,040",88%,12%,$3.09,$17.41,"$1,499,000",6,,Midwest,West North Central,Midwest
+27085,MN,"McLeod County, Minnesota",2020,6.8%,15,"2,440",,23%,4%,165%,64.5%,35.5%,9.6%,790,97%,3%,$3.26,$17.32,"$1,282,000",6,,Midwest,West North Central,Midwest
+27085,MN,"McLeod County, Minnesota",2021,6.1%,16,"2,230",,20%,5%,200%,88.7%,11.3%,7.3%,620,100%,0%,$3.69,$21.50,"$1,454,000",6,,Midwest,West North Central,Midwest
+27087,MN,"Mahnomen County, Minnesota",2022,15.7%,6,850,,,9%,200%,95.5%,4.5%,24.5%,410,100%,0%,$4.17,$25.84,"$666,000",8,8,Midwest,West North Central,Midwest
+27087,MN,"Mahnomen County, Minnesota",2023,16.5%,6,890,,,10%,200%,89.9%,10.1%,25.6%,430,100%,0%,$3.67,$22.90,"$618,000",8,8,Midwest,West North Central,Midwest
+27087,MN,"Mahnomen County, Minnesota",2019,15.0%,7,830,,,9%,165%,82.8%,17.2%,23.1%,400,100%,0%,$3.26,$18.37,"$462,000",8,,Midwest,West North Central,Midwest
+27087,MN,"Mahnomen County, Minnesota",2020,16.1%,6,890,,,6%,165%,86.3%,13.7%,25.3%,440,100%,0%,$3.37,$17.90,"$483,000",8,,Midwest,West North Central,Midwest
+27087,MN,"Mahnomen County, Minnesota",2021,13.0%,8,710,,,7%,200%,100.0%,0.0%,18.3%,310,100%,0%,$3.74,$21.79,"$469,000",8,,Midwest,West North Central,Midwest
+27089,MN,"Marshall County, Minnesota",2022,9.3%,11,840,,,7%,200%,66.6%,33.4%,13.4%,280,64%,36%,$4.10,$25.43,"$648,000",8,8,Midwest,West North Central,Midwest
+27089,MN,"Marshall County, Minnesota",2023,10.3%,10,920,,,8%,200%,59.3%,40.7%,14.5%,310,57%,43%,$3.55,$22.18,"$619,000",8,8,Midwest,West North Central,Midwest
+27089,MN,"Marshall County, Minnesota",2019,8.4%,12,790,,,6%,165%,54.6%,45.4%,13.4%,290,72%,28%,$3.22,$18.16,"$435,000",8,,Midwest,West North Central,Midwest
+27089,MN,"Marshall County, Minnesota",2020,6.8%,15,630,,,4%,165%,62.5%,37.5%,10.1%,220,83%,17%,$3.19,$16.95,"$324,000",8,,Midwest,West North Central,Midwest
+27089,MN,"Marshall County, Minnesota",2021,6.2%,16,560,,,5%,200%,84.7%,15.3%,7.5%,160,97%,3%,$3.71,$21.59,"$367,000",8,,Midwest,West North Central,Midwest
+27091,MN,"Martin County, Minnesota",2022,11.7%,9,"2,330",,31%,10%,200%,77.9%,22.1%,17.0%,750,94%,6%,$4.36,$27.01,"$1,909,000",7,6,Midwest,West North Central,Midwest
+27091,MN,"Martin County, Minnesota",2023,12.5%,8,"2,490",,30%,10%,200%,75.7%,24.3%,17.3%,770,88%,12%,$3.84,$23.99,"$1,812,000",7,6,Midwest,West North Central,Midwest
+27091,MN,"Martin County, Minnesota",2019,10.8%,9,"2,150",,,9%,165%,59.7%,40.3%,16.2%,700,78%,22%,$3.15,$17.74,"$1,157,000",7,,Midwest,West North Central,Midwest
+27091,MN,"Martin County, Minnesota",2020,9.5%,11,"1,870",,25%,7%,165%,63.7%,36.3%,13.1%,560,97%,3%,$3.33,$17.65,"$1,001,000",7,,Midwest,West North Central,Midwest
+27091,MN,"Martin County, Minnesota",2021,8.5%,12,"1,700",,24%,7%,200%,84.0%,16.0%,10.8%,480,100%,0%,$3.72,$21.66,"$1,117,000",7,,Midwest,West North Central,Midwest
+27085,MN,"McLeod County, Minnesota",2022,9.3%,11,"3,430",,26%,7%,200%,69.0%,31.0%,13.0%,"1,070",75%,25%,$4.16,$25.78,"$2,682,000",6,4,Midwest,West North Central,Midwest
+27085,MN,"McLeod County, Minnesota",2023,10.5%,10,"3,850",,28%,8%,200%,59.9%,40.1%,13.6%,"1,110",73%,27%,$3.71,$23.18,"$2,707,000",6,4,Midwest,West North Central,Midwest
+27093,MN,"Meeker County, Minnesota",2019,7.5%,13,"1,720",,18%,6%,165%,61.4%,38.6%,11.0%,620,87%,13%,$3.26,$18.37,"$958,000",6,,Midwest,West North Central,Midwest
+27093,MN,"Meeker County, Minnesota",2020,6.1%,16,"1,420",,17%,4%,165%,68.1%,31.9%,8.6%,480,100%,0%,$3.17,$16.81,"$724,000",6,,Midwest,West North Central,Midwest
+27093,MN,"Meeker County, Minnesota",2021,5.9%,17,"1,380",,,5%,200%,83.9%,16.1%,6.7%,380,100%,0%,$3.52,$20.51,"$859,000",6,,Midwest,West North Central,Midwest
+27093,MN,"Meeker County, Minnesota",2022,8.9%,11,"2,080",,,7%,200%,65.2%,34.8%,12.2%,690,71%,29%,$3.98,$24.66,"$1,556,000",6,6,Midwest,West North Central,Midwest
+27093,MN,"Meeker County, Minnesota",2023,10.2%,10,"2,380",,25%,8%,200%,62.2%,37.8%,13.0%,730,72%,28%,$3.52,$22.01,"$1,589,000",6,6,Midwest,West North Central,Midwest
+27095,MN,"Mille Lacs County, Minnesota",2019,11.4%,9,"2,940",,,9%,165%,64.5%,35.5%,18.0%,"1,120",93%,8%,$2.79,$15.70,"$1,400,000",1,,Midwest,West North Central,Midwest
+27095,MN,"Mille Lacs County, Minnesota",2020,10.3%,10,"2,680",,19%,7%,165%,65.4%,34.6%,16.4%,"1,020",94%,6%,$2.99,$15.88,"$1,291,000",1,,Midwest,West North Central,Midwest
+27095,MN,"Mille Lacs County, Minnesota",2021,8.8%,11,"2,330",,,7%,200%,84.6%,15.4%,12.6%,800,100%,0%,$3.54,$20.60,"$1,456,000",1,,Midwest,West North Central,Midwest
+27095,MN,"Mille Lacs County, Minnesota",2022,11.9%,8,"3,180",,25%,9%,200%,73.0%,27.0%,18.0%,"1,130",82%,18%,$3.94,$24.41,"$2,355,000",1,1,Midwest,West North Central,Midwest
+27095,MN,"Mille Lacs County, Minnesota",2023,12.8%,8,"3,440",,26%,9%,200%,67.4%,32.6%,18.5%,"1,160",72%,28%,$3.51,$21.94,"$2,289,000",1,1,Midwest,West North Central,Midwest
+27097,MN,"Morrison County, Minnesota",2019,9.7%,10,"3,220",,,8%,165%,61.6%,38.4%,14.4%,"1,120",78%,22%,$2.86,$16.12,"$1,574,000",6,,Midwest,West North Central,Midwest
+27097,MN,"Morrison County, Minnesota",2020,8.6%,12,"2,830",,,6%,165%,67.3%,32.7%,12.3%,970,88%,13%,$3.07,$16.30,"$1,399,000",6,,Midwest,West North Central,Midwest
+27097,MN,"Morrison County, Minnesota",2021,7.5%,13,"2,540",,14%,6%,200%,87.7%,12.3%,9.3%,740,97%,3%,$3.56,$20.72,"$1,597,000",6,,Midwest,West North Central,Midwest
+27097,MN,"Morrison County, Minnesota",2022,10.9%,9,"3,700",,17%,9%,200%,72.3%,27.7%,15.1%,"1,190",66%,34%,$3.99,$24.70,"$2,772,000",6,6,Midwest,West North Central,Midwest
+27097,MN,"Morrison County, Minnesota",2023,11.6%,9,"3,950",,23%,9%,200%,66.5%,33.5%,15.7%,"1,240",62%,38%,$3.53,$22.04,"$2,641,000",6,6,Midwest,West North Central,Midwest
+27099,MN,"Mower County, Minnesota",2019,9.3%,11,"3,720",25%,24%,7%,165%,74.4%,25.6%,14.2%,"1,410",93%,7%,$2.80,$15.79,"$1,781,000",4,,Midwest,West North Central,Midwest
+27099,MN,"Mower County, Minnesota",2020,8.4%,12,"3,360",24%,22%,5%,165%,74.0%,26.0%,13.8%,"1,390",98%,2%,$3.02,$16.03,"$1,634,000",4,,Midwest,West North Central,Midwest
+27099,MN,"Mower County, Minnesota",2021,7.1%,14,"2,830",27%,17%,5%,200%,88.1%,11.9%,10.9%,"1,120",100%,0%,$3.56,$20.72,"$1,778,000",4,,Midwest,West North Central,Midwest
+27099,MN,"Mower County, Minnesota",2022,10.2%,10,"4,100",28%,22%,8%,200%,74.0%,26.0%,16.4%,"1,670",89%,11%,$3.90,$24.17,"$3,006,000",4,4,Midwest,West North Central,Midwest
+27099,MN,"Mower County, Minnesota",2023,11.3%,9,"4,510",,27%,8%,200%,65.1%,34.9%,16.6%,"1,710",80%,20%,$3.48,$21.76,"$2,977,000",4,4,Midwest,West North Central,Midwest
+27101,MN,"Murray County, Minnesota",2019,8.1%,12,680,,,6%,165%,59.7%,40.3%,12.2%,220,74%,26%,$2.92,$16.43,"$339,000",9,,Midwest,West North Central,Midwest
+27101,MN,"Murray County, Minnesota",2020,6.5%,15,540,,,4%,165%,65.8%,34.2%,8.7%,150,81%,19%,$2.96,$15.71,"$257,000",9,,Midwest,West North Central,Midwest
+27101,MN,"Murray County, Minnesota",2021,5.4%,19,440,,,4%,200%,83.3%,16.7%,6.3%,110,100%,0%,$3.33,$19.37,"$259,000",9,,Midwest,West North Central,Midwest
+27101,MN,"Murray County, Minnesota",2022,9.0%,11,740,,,7%,200%,65.8%,34.2%,12.2%,220,68%,32%,$3.67,$22.77,"$511,000",9,9,Midwest,West North Central,Midwest
+27101,MN,"Murray County, Minnesota",2023,10.3%,10,830,,,8%,200%,62.7%,37.3%,12.9%,230,60%,40%,$3.23,$20.16,"$508,000",9,9,Midwest,West North Central,Midwest
+27103,MN,"Nicollet County, Minnesota",2019,8.1%,12,"2,740",38%,22%,6%,165%,56.5%,43.5%,10.8%,810,69%,31%,$4.19,$23.59,"$1,960,000",3,,Midwest,West North Central,Midwest
+27103,MN,"Nicollet County, Minnesota",2020,6.9%,14,"2,360",36%,17%,4%,165%,58.0%,42.0%,8.8%,660,80%,20%,$4.02,$21.36,"$1,529,000",3,,Midwest,West North Central,Midwest
+27103,MN,"Nicollet County, Minnesota",2021,6.4%,16,"2,190",,13%,5%,200%,68.0%,32.0%,6.9%,530,93%,7%,$4.24,$24.67,"$1,639,000",3,,Midwest,West North Central,Midwest
+27103,MN,"Nicollet County, Minnesota",2022,9.5%,11,"3,270",,22%,7%,200%,57.3%,42.7%,13.0%,970,64%,36%,$4.72,$29.25,"$2,901,000",3,3,Midwest,West North Central,Midwest
+27103,MN,"Nicollet County, Minnesota",2023,10.5%,10,"3,620",35%,23%,8%,200%,57.3%,42.7%,13.6%,"1,010",66%,34%,$4.23,$26.41,"$2,900,000",3,3,Midwest,West North Central,Midwest
+27105,MN,"Nobles County, Minnesota",2019,8.5%,12,"1,840",18%,20%,7%,165%,89.0%,11.0%,13.3%,790,100%,0%,$2.88,$16.22,"$905,000",7,,Midwest,West North Central,Midwest
+27105,MN,"Nobles County, Minnesota",2020,6.6%,15,"1,420",,19%,5%,165%,100.0%,0.0%,12.8%,770,100%,0%,$2.96,$15.71,"$676,000",7,,Midwest,West North Central,Midwest
+27105,MN,"Nobles County, Minnesota",2021,6.6%,15,"1,460",20%,16%,5%,200%,100.0%,0.0%,10.7%,660,100%,0%,$3.33,$19.37,"$858,000",7,,Midwest,West North Central,Midwest
+27105,MN,"Nobles County, Minnesota",2022,10.6%,9,"2,350",28%,22%,7%,200%,87.9%,12.1%,17.0%,"1,040",90%,10%,$3.67,$22.77,"$1,623,000",7,7,Midwest,West North Central,Midwest
+27105,MN,"Nobles County, Minnesota",2023,12.1%,8,"2,660",30%,26%,8%,200%,83.9%,16.1%,16.3%,"1,020",88%,12%,$3.23,$20.16,"$1,627,000",7,7,Midwest,West North Central,Midwest
+27107,MN,"Norman County, Minnesota",2019,8.5%,12,560,,,7%,165%,67.9%,32.1%,13.2%,200,87%,13%,$3.27,$18.40,"$313,000",8,,Midwest,West North Central,Midwest
+27107,MN,"Norman County, Minnesota",2020,7.7%,13,500,,,6%,165%,66.2%,33.8%,11.6%,180,89%,11%,$3.43,$18.19,"$276,000",8,,Midwest,West North Central,Midwest
+27107,MN,"Norman County, Minnesota",2021,7.3%,14,480,,,7%,200%,88.3%,11.7%,9.4%,150,100%,0%,$3.77,$21.98,"$320,000",8,,Midwest,West North Central,Midwest
+27107,MN,"Norman County, Minnesota",2022,10.1%,10,650,,,8%,200%,70.3%,29.7%,14.0%,210,77%,23%,$4.23,$26.21,"$517,000",8,8,Midwest,West North Central,Midwest
+27107,MN,"Norman County, Minnesota",2023,11.2%,9,720,,,9%,200%,67.2%,32.8%,15.1%,220,84%,17%,$3.71,$23.18,"$506,000",8,8,Midwest,West North Central,Midwest
+27109,MN,"Olmsted County, Minnesota",2019,6.8%,15,"10,570",30%,21%,5%,165%,59.3%,40.7%,10.3%,"3,930",68%,32%,$3.23,$18.22,"$5,843,000",3,,Midwest,West North Central,Midwest
+27109,MN,"Olmsted County, Minnesota",2020,6.1%,16,"9,620",30%,20%,3%,165%,60.3%,39.7%,9.7%,"3,710",76%,24%,$3.43,$18.23,"$5,319,000",3,,Midwest,West North Central,Midwest
+27109,MN,"Olmsted County, Minnesota",2021,5.0%,20,"8,100",28%,17%,4%,200%,74.2%,25.8%,6.8%,"2,700",96%,5%,$3.96,$23.08,"$5,671,000",3,,Midwest,West North Central,Midwest
+27109,MN,"Olmsted County, Minnesota",2022,8.0%,12,"12,930",35%,23%,6%,200%,56.5%,43.5%,12.3%,"4,810",59%,41%,$4.34,$26.92,"$10,558,000",3,3,Midwest,West North Central,Midwest
+27109,MN,"Olmsted County, Minnesota",2023,9.2%,11,"15,090",39%,25%,7%,200%,50.5%,49.5%,12.6%,"4,980",58%,42%,$3.83,$23.93,"$10,952,000",3,3,Midwest,West North Central,Midwest
+27111,MN,"Otter Tail County, Minnesota",2019,8.9%,11,"5,190",39%,21%,7%,165%,60.5%,39.5%,13.7%,"1,730",81%,19%,$2.77,$15.59,"$2,454,000",6,,Midwest,West North Central,Midwest
+27111,MN,"Otter Tail County, Minnesota",2020,7.3%,14,"4,260",28%,21%,5%,165%,68.2%,31.8%,10.8%,"1,370",100%,0%,$2.91,$15.42,"$1,992,000",6,,Midwest,West North Central,Midwest
+27111,MN,"Otter Tail County, Minnesota",2021,6.5%,15,"3,900",,22%,6%,200%,87.9%,12.1%,8.5%,"1,100",100%,0%,$3.42,$19.92,"$2,357,000",6,,Midwest,West North Central,Midwest
+27111,MN,"Otter Tail County, Minnesota",2022,9.8%,10,"5,890",36%,28%,8%,200%,72.5%,27.5%,14.2%,"1,840",82%,18%,$3.85,$23.84,"$4,260,000",6,6,Midwest,West North Central,Midwest
+27111,MN,"Otter Tail County, Minnesota",2023,11.0%,9,"6,610",38%,30%,9%,200%,68.1%,31.9%,15.1%,"1,990",83%,17%,$3.43,$21.43,"$4,296,000",6,6,Midwest,West North Central,Midwest
+27113,MN,"Pennington County, Minnesota",2019,9.6%,10,"1,370",,,8%,165%,59.8%,40.2%,15.9%,530,75%,25%,$3.22,$18.16,"$755,000",6,,Midwest,West North Central,Midwest
+27113,MN,"Pennington County, Minnesota",2020,8.3%,12,"1,170",,,6%,165%,60.5%,39.5%,13.2%,430,77%,23%,$3.27,$17.37,"$617,000",6,,Midwest,West North Central,Midwest
+27113,MN,"Pennington County, Minnesota",2021,7.5%,13,"1,050",,14%,6%,200%,74.0%,26.0%,10.1%,330,74%,26%,$3.42,$19.89,"$634,000",6,,Midwest,West North Central,Midwest
+27113,MN,"Pennington County, Minnesota",2022,10.6%,9,"1,480",,21%,8%,200%,62.6%,37.4%,15.5%,490,50%,50%,$3.75,$23.24,"$1,043,000",6,6,Midwest,West North Central,Midwest
+27113,MN,"Pennington County, Minnesota",2023,11.9%,8,"1,650",,25%,10%,200%,63.0%,37.0%,14.7%,450,58%,42%,$3.48,$21.76,"$1,089,000",6,6,Midwest,West North Central,Midwest
+27115,MN,"Pine County, Minnesota",2019,10.9%,9,"3,180",17%,26%,9%,165%,65.4%,34.6%,16.9%,980,81%,20%,$3.09,$17.43,"$1,681,000",6,,Midwest,West North Central,Midwest
+27115,MN,"Pine County, Minnesota",2020,10.3%,10,"3,010",16%,,7%,165%,63.1%,36.9%,15.0%,860,75%,26%,$3.05,$16.21,"$1,480,000",6,,Midwest,West North Central,Midwest
+27115,MN,"Pine County, Minnesota",2021,8.7%,11,"2,530",20%,21%,7%,200%,82.1%,17.9%,11.5%,650,86%,14%,$3.37,$19.60,"$1,504,000",6,,Midwest,West North Central,Midwest
+27115,MN,"Pine County, Minnesota",2022,11.7%,9,"3,410",22%,,9%,200%,71.7%,28.3%,17.0%,960,70%,30%,$3.79,$23.48,"$2,428,000",6,8,Midwest,West North Central,Midwest
+27115,MN,"Pine County, Minnesota",2023,12.6%,8,"3,720",19%,30%,10%,200%,67.4%,32.6%,17.7%,"1,000",69%,31%,$3.47,$21.71,"$2,450,000",6,8,Midwest,West North Central,Midwest
+27117,MN,"Pipestone County, Minnesota",2019,9.7%,10,890,,23%,8%,165%,70.1%,29.9%,14.5%,340,93%,8%,$3.00,$16.92,"$457,000",6,,Midwest,West North Central,Midwest
+27117,MN,"Pipestone County, Minnesota",2020,7.4%,14,680,,22%,5%,165%,78.2%,21.8%,10.4%,240,100%,0%,$3.39,$17.99,"$371,000",6,,Midwest,West North Central,Midwest
+27117,MN,"Pipestone County, Minnesota",2021,7.6%,13,710,,19%,6%,200%,95.5%,4.5%,10.1%,260,100%,0%,$3.67,$21.40,"$461,000",6,,Midwest,West North Central,Midwest
+27117,MN,"Pipestone County, Minnesota",2022,10.6%,9,"1,000",,30%,8%,200%,71.4%,28.6%,16.6%,420,76%,24%,$4.04,$25.02,"$759,000",6,8,Midwest,West North Central,Midwest
+27117,MN,"Pipestone County, Minnesota",2023,11.1%,9,"1,040",,,9%,200%,76.2%,23.8%,14.9%,380,93%,7%,$3.59,$22.41,"$707,000",6,8,Midwest,West North Central,Midwest
+27119,MN,"Polk County, Minnesota",2019,9.7%,10,"3,050",,23%,8%,165%,63.4%,36.6%,15.0%,"1,140",79%,21%,$3.33,$18.76,"$1,736,000",3,,Midwest,West North Central,Midwest
+27119,MN,"Polk County, Minnesota",2020,8.7%,11,"2,730",22%,25%,6%,165%,66.6%,33.4%,12.4%,950,88%,12%,$3.27,$17.37,"$1,439,000",3,,Midwest,West North Central,Midwest
+27119,MN,"Polk County, Minnesota",2021,8.2%,12,"2,570",25%,29%,6%,200%,77.8%,22.2%,9.8%,760,90%,10%,$3.42,$19.89,"$1,551,000",3,,Midwest,West North Central,Midwest
+27119,MN,"Polk County, Minnesota",2022,11.1%,9,"3,440",,33%,8%,200%,68.5%,31.5%,15.8%,"1,200",70%,30%,$3.75,$23.24,"$2,425,000",3,3,Midwest,West North Central,Midwest
+27119,MN,"Polk County, Minnesota",2023,11.8%,8,"3,630",,37%,8%,200%,66.0%,34.0%,16.0%,"1,220",74%,26%,$3.48,$21.76,"$2,396,000",3,3,Midwest,West North Central,Midwest
+27121,MN,"Pope County, Minnesota",2019,8.0%,13,890,,,7%,165%,55.9%,44.1%,11.3%,260,76%,24%,$3.07,$17.29,"$467,000",8,,Midwest,West North Central,Midwest
+27121,MN,"Pope County, Minnesota",2020,7.1%,14,780,,,4%,165%,60.3%,39.7%,9.0%,210,90%,10%,$3.23,$17.14,"$405,000",8,,Midwest,West North Central,Midwest
+27121,MN,"Pope County, Minnesota",2021,6.2%,16,690,,,5%,200%,76.3%,23.7%,6.9%,160,100%,0%,$3.74,$21.76,"$455,000",8,,Midwest,West North Central,Midwest
+27121,MN,"Pope County, Minnesota",2022,9.8%,10,"1,110",,,7%,200%,58.1%,41.9%,12.3%,290,65%,35%,$4.18,$25.93,"$873,000",8,8,Midwest,West North Central,Midwest
+27121,MN,"Pope County, Minnesota",2023,10.7%,9,"1,210",,,8%,200%,57.4%,42.6%,13.4%,330,62%,38%,$3.67,$22.91,"$841,000",8,8,Midwest,West North Central,Midwest
+27123,MN,"Ramsey County, Minnesota",2019,9.7%,10,"52,970",27%,22%,7%,165%,73.4%,26.6%,15.5%,"19,740",84%,17%,$3.47,$19.57,"$31,451,000",1,,Midwest,West North Central,Midwest
+27123,MN,"Ramsey County, Minnesota",2020,9.5%,11,"51,980",26%,21%,6%,165%,68.3%,31.7%,17.0%,"21,620",89%,11%,$3.80,$20.14,"$31,763,000",1,,Midwest,West North Central,Midwest
+27123,MN,"Ramsey County, Minnesota",2021,8.0%,13,"43,790",27%,18%,6%,200%,74.8%,25.2%,13.3%,"17,130",95%,5%,$4.36,$25.40,"$33,742,000",1,,Midwest,West North Central,Midwest
+27123,MN,"Ramsey County, Minnesota",2022,10.5%,10,"57,430",31%,25%,8%,200%,68.3%,31.7%,19.0%,"24,000",81%,19%,$4.81,$29.81,"$51,931,000",1,1,Midwest,West North Central,Midwest
+27123,MN,"Ramsey County, Minnesota",2023,11.9%,8,"64,830",35%,27%,9%,200%,65.9%,34.1%,19.4%,"24,470",83%,17%,$4.22,$26.35,"$51,819,000",1,1,Midwest,West North Central,Midwest
+27125,MN,"Red Lake County, Minnesota",2019,9.5%,11,380,,,7%,165%,60.6%,39.4%,15.4%,150,74%,26%,$3.21,$18.10,"$209,000",8,,Midwest,West North Central,Midwest
+27125,MN,"Red Lake County, Minnesota",2020,8.0%,13,320,,,5%,165%,64.7%,35.3%,10.8%,110,87%,13%,$3.27,$17.37,"$169,000",8,,Midwest,West North Central,Midwest
+27125,MN,"Red Lake County, Minnesota",2021,7.1%,14,280,,,5%,200%,73.5%,26.5%,8.2%,80,84%,16%,$3.42,$19.89,"$169,000",8,,Midwest,West North Central,Midwest
+27125,MN,"Red Lake County, Minnesota",2022,10.1%,10,400,,,7%,200%,63.7%,36.3%,13.8%,130,67%,33%,$3.75,$23.24,"$282,000",8,8,Midwest,West North Central,Midwest
+27125,MN,"Red Lake County, Minnesota",2023,10.3%,10,410,,,7%,200%,60.2%,39.8%,12.5%,120,57%,43%,$3.48,$21.76,"$271,000",8,8,Midwest,West North Central,Midwest
+27127,MN,"Redwood County, Minnesota",2019,8.4%,12,"1,280",,23%,6%,165%,68.5%,31.5%,13.0%,480,100%,1%,$2.93,$16.53,"$642,000",7,,Midwest,West North Central,Midwest
+27127,MN,"Redwood County, Minnesota",2020,7.2%,14,"1,100",,20%,4%,165%,72.5%,27.5%,10.2%,380,100%,0%,$3.07,$16.29,"$543,000",7,,Midwest,West North Central,Midwest
+27127,MN,"Redwood County, Minnesota",2021,6.5%,15,"1,000",,17%,5%,200%,96.6%,3.4%,7.3%,280,100%,0%,$3.59,$20.89,"$634,000",7,,Midwest,West North Central,Midwest
+27127,MN,"Redwood County, Minnesota",2022,9.6%,10,"1,490",,20%,7%,200%,73.8%,26.2%,12.9%,500,86%,14%,$3.99,$24.76,"$1,119,000",7,9,Midwest,West North Central,Midwest
+27127,MN,"Redwood County, Minnesota",2023,11.6%,9,"1,790",,24%,8%,200%,67.9%,32.1%,14.5%,550,79%,21%,$3.55,$22.21,"$1,206,000",7,9,Midwest,West North Central,Midwest
+27129,MN,"Renville County, Minnesota",2019,8.6%,12,"1,250",,19%,6%,165%,62.5%,37.5%,13.5%,450,83%,17%,$3.01,$16.98,"$644,000",8,,Midwest,West North Central,Midwest
+27129,MN,"Renville County, Minnesota",2020,7.3%,14,"1,060",,20%,5%,165%,70.5%,29.5%,10.9%,360,90%,10%,$3.12,$16.58,"$533,000",8,,Midwest,West North Central,Midwest
+27129,MN,"Renville County, Minnesota",2021,6.7%,15,980,,19%,5%,200%,90.8%,9.2%,8.8%,300,100%,0%,$3.67,$21.39,"$636,000",8,,Midwest,West North Central,Midwest
+27129,MN,"Renville County, Minnesota",2022,10.3%,10,"1,520",,28%,7%,200%,75.2%,24.8%,15.7%,540,77%,23%,$4.10,$25.44,"$1,173,000",8,9,Midwest,West North Central,Midwest
+27129,MN,"Renville County, Minnesota",2023,11.6%,9,"1,690",,30%,8%,200%,71.8%,28.2%,15.8%,540,80%,20%,$3.61,$22.58,"$1,157,000",8,9,Midwest,West North Central,Midwest
+27131,MN,"Rice County, Minnesota",2019,7.1%,14,"4,720",29%,21%,6%,165%,61.4%,38.6%,11.6%,"1,690",88%,12%,$3.08,$17.37,"$2,487,000",4,,Midwest,West North Central,Midwest
+27131,MN,"Rice County, Minnesota",2020,6.4%,16,"4,260",31%,20%,5%,165%,62.4%,37.6%,11.5%,"1,660",99%,2%,$3.50,$18.57,"$2,399,000",4,,Midwest,West North Central,Midwest
+27131,MN,"Rice County, Minnesota",2021,5.7%,18,"3,810",32%,17%,5%,200%,71.2%,28.8%,9.1%,"1,330",100%,0%,$4.11,$23.93,"$2,766,000",4,,Midwest,West North Central,Midwest
+27131,MN,"Rice County, Minnesota",2022,8.6%,12,"5,750",37%,22%,7%,200%,59.1%,40.9%,14.2%,"2,040",75%,25%,$4.53,$28.09,"$4,899,000",4,4,Midwest,West North Central,Midwest
+27131,MN,"Rice County, Minnesota",2023,9.8%,10,"6,580",41%,23%,8%,200%,52.6%,47.4%,14.1%,"2,060",65%,35%,$3.99,$24.96,"$4,981,000",4,4,Midwest,West North Central,Midwest
+27133,MN,"Rock County, Minnesota",2019,7.3%,14,690,,,7%,165%,62.1%,37.9%,10.8%,260,71%,29%,$3.00,$16.91,"$354,000",6,,Midwest,West North Central,Midwest
+27133,MN,"Rock County, Minnesota",2020,6.4%,16,600,,,5%,165%,67.4%,32.6%,8.2%,190,92%,9%,$3.20,$16.96,"$309,000",6,,Midwest,West North Central,Midwest
+27133,MN,"Rock County, Minnesota",2021,5.6%,18,540,,,5%,200%,92.4%,7.6%,6.3%,160,100%,0%,$3.75,$21.85,"$358,000",6,,Midwest,West North Central,Midwest
+27133,MN,"Rock County, Minnesota",2022,8.8%,11,850,,,7%,200%,75.9%,24.1%,12.6%,310,82%,18%,$4.09,$25.33,"$653,000",6,2,Midwest,West North Central,Midwest
+27133,MN,"Rock County, Minnesota",2023,9.8%,10,940,,,8%,200%,71.6%,28.4%,14.1%,330,87%,13%,$3.63,$22.67,"$646,000",6,2,Midwest,West North Central,Midwest
+27135,MN,"Roseau County, Minnesota",2019,7.9%,13,"1,210",,,6%,165%,55.7%,44.3%,12.9%,480,76%,24%,$3.22,$18.14,"$666,000",7,,Midwest,West North Central,Midwest
+27135,MN,"Roseau County, Minnesota",2020,6.7%,15,"1,030",,,5%,165%,60.0%,40.0%,11.1%,410,94%,6%,$3.27,$17.37,"$543,000",7,,Midwest,West North Central,Midwest
+27135,MN,"Roseau County, Minnesota",2021,5.9%,17,910,,,6%,200%,88.5%,11.5%,8.3%,310,100%,0%,$3.42,$19.89,"$549,000",7,,Midwest,West North Central,Midwest
+27135,MN,"Roseau County, Minnesota",2022,9.5%,11,"1,450",,,8%,200%,68.1%,31.9%,14.5%,530,69%,31%,$3.75,$23.24,"$1,022,000",7,9,Midwest,West North Central,Midwest
+27135,MN,"Roseau County, Minnesota",2023,10.7%,9,"1,640",,,9%,200%,63.8%,36.2%,15.7%,570,66%,34%,$3.48,$21.76,"$1,082,000",7,9,Midwest,West North Central,Midwest
+27137,MN,"St. Louis County, Minnesota",2019,10.5%,10,"20,980",29%,23%,9%,165%,65.8%,34.2%,14.9%,"5,680",78%,22%,$3.20,$18.04,"$11,478,000",2,,Midwest,West North Central,Midwest
+27137,MN,"St. Louis County, Minnesota",2020,10.0%,10,"20,040",31%,20%,7%,165%,65.8%,34.2%,13.8%,"5,240",83%,17%,$3.31,$17.56,"$10,676,000",2,,Midwest,West North Central,Midwest
+27137,MN,"St. Louis County, Minnesota",2021,8.5%,12,"16,970",37%,19%,8%,200%,80.4%,19.6%,10.1%,"3,860",95%,6%,$3.91,$22.77,"$11,723,000",2,,Midwest,West North Central,Midwest
+27139,MN,"Scott County, Minnesota",2022,6.2%,16,"9,310",25%,20%,4%,200%,50.5%,49.5%,9.4%,"3,760",59%,41%,$4.59,$28.48,"$8,043,000",1,1,Midwest,West North Central,Midwest
+27139,MN,"Scott County, Minnesota",2023,7.0%,14,"10,640",27%,22%,5%,200%,44.1%,55.9%,9.0%,"3,640",54%,46%,$4.05,$25.34,"$8,177,000",1,1,Midwest,West North Central,Midwest
+27139,MN,"Scott County, Minnesota",2019,4.6%,22,"6,710",13%,20%,3%,165%,51.4%,48.6%,7.7%,"3,110",62%,38%,$3.43,$19.31,"$3,929,000",1,,Midwest,West North Central,Midwest
+27139,MN,"Scott County, Minnesota",2020,4.4%,23,"6,450",20%,18%,2%,165%,52.2%,47.8%,7.2%,"2,890",71%,29%,$3.62,$19.23,"$3,763,000",1,,Midwest,West North Central,Midwest
+27139,MN,"Scott County, Minnesota",2021,3.2%,31,"4,730",21%,16%,2%,200%,74.2%,25.8%,4.0%,"1,640",100%,0%,$4.18,$24.32,"$3,490,000",1,,Midwest,West North Central,Midwest
+27141,MN,"Sherburne County, Minnesota",2022,7.2%,14,"7,040",26%,18%,5%,200%,51.7%,48.3%,10.2%,"2,590",52%,48%,$4.52,$27.99,"$5,977,000",1,1,Midwest,West North Central,Midwest
+27141,MN,"Sherburne County, Minnesota",2023,8.0%,13,"7,900",30%,20%,6%,200%,51.4%,48.6%,10.5%,"2,700",57%,43%,$4.01,$25.07,"$6,008,000",1,1,Midwest,West North Central,Midwest
+27141,MN,"Sherburne County, Minnesota",2019,5.8%,17,"5,480",26%,19%,4%,165%,49.3%,50.7%,10.0%,"2,510",60%,40%,$3.38,$19.07,"$3,170,000",1,,Midwest,West North Central,Midwest
+27141,MN,"Sherburne County, Minnesota",2020,5.1%,20,"4,910",23%,17%,2%,165%,49.9%,50.1%,7.8%,"1,980",62%,38%,$3.63,$19.25,"$2,867,000",1,,Midwest,West North Central,Midwest
+27141,MN,"Sherburne County, Minnesota",2021,4.1%,24,"3,930",21%,10%,3%,200%,69.5%,30.5%,4.8%,"1,220",85%,15%,$4.05,$23.62,"$2,815,000",1,,Midwest,West North Central,Midwest
+27143,MN,"Sibley County, Minnesota",2022,9.6%,10,"1,430",,28%,7%,200%,61.8%,38.2%,13.0%,450,62%,38%,$4.16,$25.78,"$1,118,000",1,8,Midwest,West North Central,Midwest
+27143,MN,"Sibley County, Minnesota",2023,11.1%,9,"1,650",,36%,8%,200%,61.3%,38.7%,13.9%,470,71%,29%,$3.71,$23.18,"$1,160,000",1,8,Midwest,West North Central,Midwest
+27143,MN,"Sibley County, Minnesota",2019,7.3%,14,"1,090",,24%,5%,165%,64.5%,35.5%,11.5%,410,88%,12%,$3.35,$18.88,"$624,000",1,,Midwest,West North Central,Midwest
+27143,MN,"Sibley County, Minnesota",2020,6.3%,16,940,,21%,4%,165%,64.1%,35.9%,9.4%,330,87%,13%,$3.26,$17.32,"$494,000",1,,Midwest,West North Central,Midwest
+27143,MN,"Sibley County, Minnesota",2021,5.9%,17,880,,20%,4%,200%,78.1%,21.9%,7.0%,250,97%,3%,$3.69,$21.50,"$574,000",1,,Midwest,West North Central,Midwest
+27137,MN,"St. Louis County, Minnesota",2022,11.5%,9,"23,040",40%,24%,10%,200%,72.4%,27.6%,15.8%,"5,930",72%,28%,$4.25,$26.33,"$18,404,000",2,2,Midwest,West North Central,Midwest
+27137,MN,"St. Louis County, Minnesota",2023,12.4%,8,"24,820",44%,26%,11%,200%,69.0%,31.0%,16.5%,"6,200",70%,30%,$3.75,$23.44,"$17,650,000",2,2,Midwest,West North Central,Midwest
+27145,MN,"Stearns County, Minnesota",2019,8.9%,11,"14,110",38%,21%,8%,165%,66.5%,33.5%,13.9%,"5,110",74%,26%,$3.10,$17.46,"$7,475,000",3,,Midwest,West North Central,Midwest
+27145,MN,"Stearns County, Minnesota",2020,7.9%,13,"12,640",38%,19%,5%,165%,68.1%,31.9%,12.8%,"4,750",82%,19%,$3.18,$16.88,"$6,474,000",3,,Midwest,West North Central,Midwest
+27145,MN,"Stearns County, Minnesota",2021,7.3%,14,"11,570",38%,16%,6%,200%,76.1%,23.9%,10.8%,"3,990",91%,9%,$3.73,$21.70,"$7,615,000",3,,Midwest,West North Central,Midwest
+27145,MN,"Stearns County, Minnesota",2022,10.2%,10,"16,140",40%,22%,8%,200%,68.4%,31.6%,16.7%,"6,160",71%,29%,$4.11,$25.47,"$12,471,000",3,3,Midwest,West North Central,Midwest
+27145,MN,"Stearns County, Minnesota",2023,11.3%,9,"18,080",41%,26%,9%,200%,65.2%,34.8%,16.8%,"6,300",70%,31%,$3.62,$22.60,"$12,392,000",3,3,Midwest,West North Central,Midwest
+27147,MN,"Steele County, Minnesota",2019,7.6%,13,"2,780",34%,21%,6%,165%,66.2%,33.8%,11.5%,"1,060",86%,15%,$3.05,$17.17,"$1,448,000",5,,Midwest,West North Central,Midwest
+27147,MN,"Steele County, Minnesota",2020,6.3%,16,"2,320",33%,19%,4%,165%,73.9%,26.1%,9.8%,900,100%,0%,$3.36,$17.82,"$1,254,000",5,,Midwest,West North Central,Midwest
+27147,MN,"Steele County, Minnesota",2021,5.7%,18,"2,140",29%,16%,5%,200%,84.7%,15.3%,7.4%,690,100%,0%,$3.88,$22.60,"$1,467,000",5,,Midwest,West North Central,Midwest
+27147,MN,"Steele County, Minnesota",2022,8.8%,11,"3,290",29%,23%,7%,200%,69.7%,30.3%,12.2%,"1,120",87%,13%,$4.30,$26.64,"$2,658,000",5,5,Midwest,West North Central,Midwest
+27147,MN,"Steele County, Minnesota",2023,9.4%,11,"3,530",34%,26%,7%,200%,63.6%,36.4%,12.4%,"1,140",78%,22%,$3.83,$23.94,"$2,563,000",5,5,Midwest,West North Central,Midwest
+27149,MN,"Stevens County, Minnesota",2019,7.4%,14,730,,18%,8%,165%,75.4%,24.6%,9.3%,190,59%,41%,$3.04,$17.16,"$380,000",7,,Midwest,West North Central,Midwest
+27149,MN,"Stevens County, Minnesota",2020,6.3%,16,610,,,5%,165%,78.1%,21.9%,8.0%,170,87%,13%,$3.23,$17.14,"$317,000",7,,Midwest,West North Central,Midwest
+27149,MN,"Stevens County, Minnesota",2021,6.8%,15,650,,,5%,200%,78.3%,21.7%,7.1%,150,90%,10%,$3.74,$21.76,"$429,000",7,,Midwest,West North Central,Midwest
+27149,MN,"Stevens County, Minnesota",2022,9.6%,10,930,,22%,7%,200%,69.3%,30.7%,12.7%,270,69%,31%,$4.18,$25.93,"$732,000",7,7,Midwest,West North Central,Midwest
+27149,MN,"Stevens County, Minnesota",2023,10.8%,9,"1,050",,23%,8%,200%,67.0%,33.0%,13.4%,290,75%,25%,$3.67,$22.91,"$730,000",7,7,Midwest,West North Central,Midwest
+27151,MN,"Swift County, Minnesota",2019,10.5%,10,990,,,8%,165%,70.9%,29.1%,16.5%,350,89%,11%,$3.02,$17.04,"$512,000",7,,Midwest,West North Central,Midwest
+27151,MN,"Swift County, Minnesota",2020,9.0%,11,840,,,6%,165%,72.6%,27.4%,13.3%,280,100%,0%,$3.12,$16.58,"$422,000",7,,Midwest,West North Central,Midwest
+27151,MN,"Swift County, Minnesota",2021,8.7%,11,860,,26%,7%,200%,89.9%,10.1%,12.0%,270,100%,0%,$3.67,$21.39,"$558,000",7,,Midwest,West North Central,Midwest
+27151,MN,"Swift County, Minnesota",2022,11.3%,9,"1,110",,33%,9%,200%,86.2%,13.8%,17.9%,400,100%,0%,$4.10,$25.44,"$856,000",7,9,Midwest,West North Central,Midwest
+27151,MN,"Swift County, Minnesota",2023,12.5%,8,"1,220",,38%,10%,200%,82.1%,17.9%,18.1%,410,100%,0%,$3.61,$22.58,"$835,000",7,9,Midwest,West North Central,Midwest
+27153,MN,"Todd County, Minnesota",2019,9.6%,10,"2,350",,18%,8%,165%,70.1%,29.9%,15.5%,900,99%,1%,$3.76,$21.18,"$1,509,000",6,,Midwest,West North Central,Midwest
+27153,MN,"Todd County, Minnesota",2020,8.6%,12,"2,110",,18%,6%,165%,74.7%,25.3%,13.4%,780,100%,0%,$3.66,$19.41,"$1,243,000",6,,Midwest,West North Central,Midwest
+27153,MN,"Todd County, Minnesota",2021,8.1%,12,"2,020",,19%,6%,200%,91.0%,9.0%,11.1%,670,100%,0%,$3.68,$21.42,"$1,313,000",6,,Midwest,West North Central,Midwest
+27153,MN,"Todd County, Minnesota",2022,10.9%,9,"2,750",,24%,8%,200%,79.3%,20.7%,16.7%,"1,010",85%,15%,$4.18,$25.92,"$2,162,000",6,8,Midwest,West North Central,Midwest
+27153,MN,"Todd County, Minnesota",2023,11.6%,9,"2,940",,28%,9%,200%,79.2%,20.8%,17.2%,"1,070",89%,11%,$3.77,$23.57,"$2,102,000",6,8,Midwest,West North Central,Midwest
+27155,MN,"Traverse County, Minnesota",2019,9.6%,10,320,,,6%,165%,56.8%,43.2%,14.8%,100,75%,25%,$3.19,$17.98,"$175,000",9,,Midwest,West North Central,Midwest
+27155,MN,"Traverse County, Minnesota",2020,7.9%,13,260,,,4%,165%,66.3%,33.7%,11.0%,70,89%,11%,$3.23,$17.14,"$135,000",9,,Midwest,West North Central,Midwest
+27155,MN,"Traverse County, Minnesota",2021,7.0%,14,230,,,5%,200%,90.9%,9.1%,9.0%,60,100%,0%,$3.74,$21.76,"$152,000",9,,Midwest,West North Central,Midwest
+27155,MN,"Traverse County, Minnesota",2022,9.8%,10,330,,,7%,200%,77.5%,22.5%,14.7%,110,88%,12%,$4.18,$25.93,"$260,000",9,9,Midwest,West North Central,Midwest
+27155,MN,"Traverse County, Minnesota",2023,11.6%,9,380,,,9%,200%,72.7%,27.3%,16.6%,120,88%,12%,$3.67,$22.91,"$264,000",9,9,Midwest,West North Central,Midwest
+27157,MN,"Wabasha County, Minnesota",2019,8.0%,13,"1,720",,,6%,165%,54.5%,45.5%,11.7%,540,61%,39%,$3.87,$21.80,"$1,137,000",3,,Midwest,West North Central,Midwest
+27157,MN,"Wabasha County, Minnesota",2020,6.8%,15,"1,460",,26%,4%,165%,56.4%,43.6%,9.4%,440,73%,28%,$3.21,$17.03,"$754,000",3,,Midwest,West North Central,Midwest
+27157,MN,"Wabasha County, Minnesota",2021,5.5%,18,"1,180",,24%,4%,200%,75.4%,24.6%,6.6%,310,89%,11%,$3.43,$19.99,"$715,000",3,,Midwest,West North Central,Midwest
+27157,MN,"Wabasha County, Minnesota",2022,8.9%,11,"1,910",,33%,6%,200%,58.0%,42.0%,12.2%,560,65%,35%,$4.03,$24.98,"$1,447,000",3,3,Midwest,West North Central,Midwest
+27157,MN,"Wabasha County, Minnesota",2023,9.9%,10,"2,140",,39%,7%,200%,52.3%,47.7%,13.1%,620,57%,43%,$4.28,$26.76,"$1,737,000",3,3,Midwest,West North Central,Midwest
+27159,MN,"Wadena County, Minnesota",2019,12.7%,8,"1,730",,,10%,165%,71.5%,28.5%,19.1%,660,98%,2%,$3.06,$17.25,"$905,000",7,,Midwest,West North Central,Midwest
+27159,MN,"Wadena County, Minnesota",2020,11.3%,9,"1,550",,,9%,165%,76.1%,23.9%,16.9%,590,100%,0%,$3.20,$16.99,"$799,000",7,,Midwest,West North Central,Midwest
+27159,MN,"Wadena County, Minnesota",2021,9.4%,11,"1,320",,,10%,200%,91.6%,8.4%,11.9%,440,100%,0%,$3.50,$20.40,"$817,000",7,,Midwest,West North Central,Midwest
+27159,MN,"Wadena County, Minnesota",2022,12.0%,8,"1,700",,,11%,200%,83.7%,16.3%,17.0%,630,84%,16%,$3.94,$24.39,"$1,258,000",7,9,Midwest,West North Central,Midwest
+27159,MN,"Wadena County, Minnesota",2023,12.9%,8,"1,820",,,12%,200%,77.8%,22.2%,17.9%,660,74%,26%,$3.47,$21.68,"$1,197,000",7,9,Midwest,West North Central,Midwest
+27161,MN,"Waseca County, Minnesota",2019,8.3%,12,"1,550",,,6%,165%,65.9%,34.1%,12.4%,540,84%,16%,$3.14,$17.72,"$833,000",6,,Midwest,West North Central,Midwest
+27161,MN,"Waseca County, Minnesota",2020,7.0%,14,"1,310",,24%,4%,165%,68.9%,31.1%,10.6%,460,87%,13%,$3.36,$17.82,"$708,000",6,,Midwest,West North Central,Midwest
+27161,MN,"Waseca County, Minnesota",2021,6.1%,16,"1,160",,,4%,200%,85.6%,14.4%,7.9%,350,93%,7%,$3.88,$22.60,"$795,000",6,,Midwest,West North Central,Midwest
+27161,MN,"Waseca County, Minnesota",2022,8.8%,11,"1,670",,27%,6%,200%,72.1%,27.9%,12.6%,550,64%,36%,$4.30,$26.64,"$1,349,000",6,6,Midwest,West North Central,Midwest
+27161,MN,"Waseca County, Minnesota",2023,10.2%,10,"1,940",,32%,8%,200%,70.0%,30.0%,13.9%,610,62%,38%,$3.83,$23.94,"$1,409,000",6,6,Midwest,West North Central,Midwest
+27163,MN,"Washington County, Minnesota",2019,4.8%,21,"12,290",16%,16%,4%,165%,46.1%,53.9%,7.8%,"4,910",59%,41%,$3.40,$19.18,"$7,152,000",1,,Midwest,West North Central,Midwest
+27163,MN,"Washington County, Minnesota",2020,4.4%,23,"11,400",15%,15%,2%,165%,48.7%,51.3%,6.8%,"4,340",66%,34%,$3.64,$19.30,"$6,673,000",1,,Midwest,West North Central,Midwest
+27163,MN,"Washington County, Minnesota",2021,3.5%,29,"9,150",13%,13%,3%,200%,68.9%,31.1%,3.8%,"2,470",96%,4%,$4.21,$24.53,"$6,808,000",1,,Midwest,West North Central,Midwest
+27163,MN,"Washington County, Minnesota",2022,6.5%,15,"17,390",15%,19%,5%,200%,47.1%,52.9%,8.8%,"5,700",47%,53%,$4.67,$28.95,"$15,271,000",1,1,Midwest,West North Central,Midwest
+27163,MN,"Washington County, Minnesota",2023,7.7%,13,"21,010",20%,22%,6%,200%,43.2%,56.8%,9.7%,"6,360",44%,56%,$4.07,$25.40,"$16,190,000",1,1,Midwest,West North Central,Midwest
+27165,MN,"Watonwan County, Minnesota",2019,8.9%,11,980,,21%,8%,165%,76.0%,24.0%,14.9%,400,90%,10%,$3.14,$17.67,"$525,000",6,,Midwest,West North Central,Midwest
+27165,MN,"Watonwan County, Minnesota",2020,7.4%,14,810,,21%,6%,165%,79.7%,20.3%,12.9%,340,100%,0%,$3.12,$16.55,"$407,000",6,,Midwest,West North Central,Midwest
+27165,MN,"Watonwan County, Minnesota",2021,7.2%,14,810,,19%,6%,200%,80.1%,19.9%,9.4%,260,89%,11%,$3.64,$21.22,"$521,000",6,,Midwest,West North Central,Midwest
+27165,MN,"Watonwan County, Minnesota",2022,10.9%,9,"1,220",,25%,8%,200%,71.5%,28.5%,15.0%,410,67%,33%,$4.07,$25.22,"$933,000",6,8,Midwest,West North Central,Midwest
+27165,MN,"Watonwan County, Minnesota",2023,11.7%,9,"1,310",,27%,9%,200%,73.1%,26.9%,15.4%,440,72%,28%,$3.68,$22.97,"$913,000",6,8,Midwest,West North Central,Midwest
+27167,MN,"Wilkin County, Minnesota",2019,9.2%,11,580,,,7%,165%,51.2%,48.8%,15.1%,210,76%,24%,$3.21,$18.11,"$319,000",6,,Midwest,West North Central,Midwest
+27167,MN,"Wilkin County, Minnesota",2020,7.3%,14,460,,,5%,165%,64.8%,35.2%,10.5%,140,100%,0%,$2.91,$15.42,"$215,000",6,,Midwest,West North Central,Midwest
+27167,MN,"Wilkin County, Minnesota",2021,7.8%,13,510,,,7%,200%,84.3%,15.7%,10.1%,150,100%,0%,$3.42,$19.92,"$308,000",6,,Midwest,West North Central,Midwest
+27167,MN,"Wilkin County, Minnesota",2022,11.1%,9,720,,,10%,200%,69.5%,30.5%,13.9%,190,84%,16%,$3.85,$23.84,"$521,000",6,8,Midwest,West North Central,Midwest
+27167,MN,"Wilkin County, Minnesota",2023,12.4%,8,790,,,10%,200%,66.0%,34.0%,15.3%,220,78%,22%,$3.43,$21.43,"$513,000",6,8,Midwest,West North Central,Midwest
+27169,MN,"Winona County, Minnesota",2019,8.3%,12,"4,230",,19%,9%,165%,70.9%,29.1%,11.3%,"1,030",84%,17%,$3.55,$19.98,"$2,564,000",4,,Midwest,West North Central,Midwest
+27169,MN,"Winona County, Minnesota",2020,7.1%,14,"3,590",,19%,7%,165%,73.3%,26.7%,8.6%,790,93%,7%,$3.38,$17.95,"$1,954,000",4,,Midwest,West North Central,Midwest
+27169,MN,"Winona County, Minnesota",2021,6.5%,15,"3,260",,19%,7%,200%,85.1%,14.9%,6.0%,540,100%,0%,$3.87,$22.52,"$2,227,000",4,,Midwest,West North Central,Midwest
+27169,MN,"Winona County, Minnesota",2022,9.9%,10,"4,950",,24%,9%,200%,74.3%,25.7%,12.0%,"1,060",72%,28%,$4.28,$26.50,"$3,980,000",4,4,Midwest,West North Central,Midwest
+27169,MN,"Winona County, Minnesota",2023,10.9%,9,"5,410",43%,25%,10%,200%,68.1%,31.9%,13.9%,"1,230",69%,31%,$3.79,$23.71,"$3,891,000",4,4,Midwest,West North Central,Midwest
+27171,MN,"Wright County, Minnesota",2019,5.7%,18,"7,600",1%,16%,5%,165%,44.7%,55.3%,8.5%,"3,210",53%,47%,$3.59,$20.24,"$4,666,000",1,,Midwest,West North Central,Midwest
+27171,MN,"Wright County, Minnesota",2020,4.8%,21,"6,560",5%,15%,3%,165%,50.6%,49.4%,6.7%,"2,530",69%,31%,$3.70,$19.66,"$3,912,000",1,,Midwest,West North Central,Midwest
+27171,MN,"Wright County, Minnesota",2021,4.0%,25,"5,530",0%,12%,3%,200%,71.4%,28.6%,3.9%,"1,530",100%,0%,$4.09,$23.84,"$4,000,000",1,,Midwest,West North Central,Midwest
+27171,MN,"Wright County, Minnesota",2022,6.8%,15,"9,730",6%,,5%,200%,48.9%,51.1%,8.9%,"3,480",55%,45%,$4.61,$28.55,"$8,426,000",1,1,Midwest,West North Central,Midwest
+27171,MN,"Wright County, Minnesota",2023,7.7%,13,"11,210",13%,,6%,200%,45.3%,54.7%,9.6%,"3,840",54%,46%,$4.06,$25.37,"$8,626,000",1,1,Midwest,West North Central,Midwest
+27173,MN,"Yellow Medicine County, Minnesota",2019,9.4%,11,920,,,7%,165%,63.1%,36.9%,13.4%,300,88%,12%,$2.97,$16.74,"$467,000",9,,Midwest,West North Central,Midwest
+27173,MN,"Yellow Medicine County, Minnesota",2020,7.0%,14,690,,,5%,165%,71.8%,28.2%,9.6%,220,100%,0%,$3.07,$16.29,"$341,000",9,,Midwest,West North Central,Midwest
+27173,MN,"Yellow Medicine County, Minnesota",2021,6.4%,16,620,,,5%,200%,93.7%,6.3%,7.5%,170,100%,0%,$3.59,$20.89,"$393,000",9,,Midwest,West North Central,Midwest
+27173,MN,"Yellow Medicine County, Minnesota",2022,9.7%,10,930,,,8%,200%,74.8%,25.2%,13.5%,300,74%,26%,$3.99,$24.76,"$698,000",9,9,Midwest,West North Central,Midwest
+27173,MN,"Yellow Medicine County, Minnesota",2023,10.2%,10,970,,,8%,200%,75.6%,24.4%,14.0%,310,75%,25%,$3.55,$22.21,"$653,000",9,9,Midwest,West North Central,Midwest
