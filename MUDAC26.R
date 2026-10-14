@@ -2,10 +2,10 @@ library(tidyverse)
 library(dplyr)
 library(ggplot2)
 
-MMGdata_MN_Onlyv4 <- read.csv("MMGdata_MN_Onlyv4.csv")
+MMGdata_MN_Onlyv5 <- read.csv("MMGdata_MN_Onlyv5.csv")
 org_FS <- read_csv("FoodShelfdatav2.csv")
 
-FeedMurica <- as.data.frame(MMGdata_MN_Onlyv4)
+FeedMurica <- as.data.frame(MMGdata_MN_Onlyv5)
 FeedMurica
 
 foodShelves <- as.data.frame(org_FS)
@@ -21,11 +21,10 @@ CONames
 foodShelves <- rename(foodShelves, Site_Id = "_id_site", CallID = "__ID", Year = "_Year", Month = "_Month", Bank_ID = "_id_bank", YYYYMM = "_YearMonth")
 names(foodShelves)
 
-
-foodShelves |> factor(foodShelves$Site_Id)
 foodShelves <- foodShelves |> mutate(site_Id = as.character(Site_Id))
 foodShelves <- foodShelves |> separate_wider_delim(cols = County, delim = "-", names = c("CO_NAME", "CODivision"), cols_remove = FALSE)
-
+class(foodShelves$site_Id)
+names(foodShelves)
 
 clean_foodShelves <- foodShelves |>  drop_na(PoundsPerIndiv)
 
@@ -53,7 +52,5 @@ LBS_PER_MEAL = 1.2 #https://www.feedingamerica.org/ways-to-give/faq/about-our-cl
 
 FeedMurica
 
-
-
-
-
+MNCOHH <- read.csv("MNCounty_HH_Totals.csv")
+MNCOHH
