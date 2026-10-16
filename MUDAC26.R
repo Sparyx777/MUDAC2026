@@ -78,4 +78,13 @@ MNCOHH <- MNCOHH |>
 
 FeedMurica_MNCOHH <- FeedMurica |> 
   left_join(MNCOHH, by = "CO_Name")
+class(FeedMurica_MNCOHH$HH.Food.Insecurity.Rate)
+FeedMurica_MNCOHH$HH.Food.Insecurity.Rate <- as.numeric(gsub("%","",FeedMurica_MNCOHH$HH.Food.Insecurity.Rate))/100
+FeedMurica_MNCOHH <- FeedMurica_MNCOHH |> mutate(HouseholdsReg = HH.Food.Insecurity.Rate*Total.HH, )
+FeedMurica_MNCOHH
 
+foodShelves_strip <- foodShelves |> select(IndividualsReg, HouseholdsReg,PoundsReg) # only 3 variables
+foodShelves_strip$Dataset <- "FoodShelves" 
+foodShelves_strip
+
+FeedMurica_strip <- FeedMurica_MNCOHH |> select(IndividualsReg, )
