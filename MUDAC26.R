@@ -89,20 +89,19 @@ FeedMurica_MNCOHH <- FeedMurica_MNCOHH |> mutate(HouseholdsReg = HH.Food.Insecur
 FeedMurica_MNCOHH
 
 foodShelves_strip <- foodShelves |> select(CO_NAME, IndividualsReg, HouseholdsReg,PoundsReg) # only 4 variables
-foodShelves_strip$Dataset <- "FoodShelves" 
+foodShelves_strip$Dataset <- "Demand" 
 foodShelves_strip
 
 FeedMurica_strip <- FeedMurica_MNCOHH |> select(CO_NAME, IndividualsReg,HouseholdsReg,PoundsReg)
-FeedMurica_strip$Dataset <- "MMG"
+FeedMurica_strip$Dataset <- "Need"
+FeedMurica_strip
 
-numbah1 <- FeedMurica_strip |> 
-  left_join(foodShelves_strip, by = c("CO_NAME", "IndividualsReg", "PoundsReg", "HouseholdsReg")
+numbah1 <- FeedMurica_strip |> left_join(foodShelves_strip, by = c("CO_NAME", "IndividualsReg", "PoundsReg", "HouseholdsReg"))
 numbah1
 
-numbah1 <- ggplot(aes(x = site_Id, y = average_pounds, fill = site_Id)) +
-  geom_bar(stat = "identity")+
-  labs(x = "Sites", 
-       y = "Average Pounds")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  theme(legend.position = "none")
 
+numbah1a <- ggplot(aes(numbah1, x = CO_NAME, y = IndividualsReg, fill = Dataset)) +
+  geom_point(stat = "identity")+
+  labs(x = "Counties", 
+       y = "Individuals")+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
