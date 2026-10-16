@@ -110,10 +110,8 @@ FeedMurica_strip$IndividualsReg <- ceiling(as.integer(FeedMurica_strip$Individua
 numbah1 <- FeedMurica_strip |> left_join(foodShelves_sFeedMurica_stripnumbah1 <- FeedMurica_strip |> left_join(foodShelves_strip, by = c("CO_NAME", "IndividualsReg", "PoundsReg", "HouseholdsReg", "Dataset")))
 numbah1
 
-
-numbah1a <- ggplot(aes(numbah1, x = CO_NAME, y = IndividualsReg, fill = Dataset)) +
-  geom_point(stat = "identity")+
-  labs(x = "Counties", 
-       y = "Individuals")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
-
+numbah1 |> ggplot(aes(x = CO_NAME, fill = Dataset, color = Dataset)) +
+                  geom_point(y = IndividualsReg, stat = "identity") +
+                  scale_fill_manual(values = c("Need"="red", "Demand"= "blue")) +
+                  labs(x = "Counties",  y = "Individuals")+
+                  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
