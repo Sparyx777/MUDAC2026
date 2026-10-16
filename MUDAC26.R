@@ -87,4 +87,4 @@ foodShelves_strip <- foodShelves |> select(IndividualsReg, HouseholdsReg,PoundsR
 foodShelves_strip$Dataset <- "FoodShelves" 
 foodShelves_strip
 
-FeedMurica_strip <- FeedMurica_MNCOHH |> select(IndividualsReg, )
+FeedMurica_strip <- FeedMurica_MNCOHH |> select(IndividualsReg,HouseholdsReg,PoundsReg)
