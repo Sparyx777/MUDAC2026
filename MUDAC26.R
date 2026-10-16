@@ -50,13 +50,22 @@ ggplot(avg_pounds_per_site, aes(x = site_Id, y = average_pounds, fill = site_Id)
 
 LBS_PER_MEAL = 1.2 #https://www.feedingamerica.org/ways-to-give/faq/about-our-claims
 
-MMG2024 <- read.csv("MMGdata_MN_Only2024.csv")
+MMG2024 <- read.csv("MMGdata_MN_Only2024 (1).csv")
 MMG2024v2 <- as.data.frame(MMG2024)
 MMG2024v2
 
+colnames(FeedMurica)
+colnames(MMG2024v2)
+
+MMG2024v2 <- MMG2024v2 |> 
+  rename("weekly.pounds.of.food.needed" = Weekly.pounds,
+         "X..of.Meals.needed.by.FI" = X..of.Meals,
+         Month.LBS.FD.per.Individual.Short =
+           Month.LBS.FD.Per.Individual.Short)
+
 FeedMurica <- bind_rows(FeedMurica, MMG2024v2)
 
-FeedMurica
+
 FeedMurica <- FeedMurica |> 
   rename("IndividualsReg" = X..of.Food.Insecure.Persons.Overall, "PoundsReg" = Month.LBS.FD.per.Individual.Short)
 FeedMurica
@@ -66,3 +75,7 @@ MNCOHH
 
 MNCOHH <- MNCOHH |> 
   rename("CO_Name" = County)
+
+FeedMurica_MNCOHH <- FeedMurica |> 
+  left_join(MNCOHH, by = "CO_Name")
+
