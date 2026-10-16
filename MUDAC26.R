@@ -107,11 +107,13 @@ print(sapply(foodShelves_strip, class))
 
 FeedMurica_strip$IndividualsReg <- ceiling(as.integer(FeedMurica_strip$IndividualsReg))
 
-numbah1 <- FeedMurica_strip |> left_join(foodShelves_sFeedMurica_stripnumbah1 <- FeedMurica_strip |> left_join(foodShelves_strip, by = c("CO_NAME", "IndividualsReg", "PoundsReg", "HouseholdsReg", "Dataset")))
+numbah1 <- rbind(FeedMurica_strip, foodShelves_strip)
 numbah1
 
+unique(numbah1$Dataset)
+
 numbah1 |> ggplot(aes(x = CO_NAME, fill = Dataset, color = Dataset)) +
-                  geom_point(y = IndividualsReg, stat = "identity") +
+                  geom_point(y = numbah1$PoundsReg, stat = "identity") +
                   scale_fill_manual(values = c("Need"="red", "Demand"= "blue")) +
                   labs(x = "Counties",  y = "Individuals")+
                   theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
