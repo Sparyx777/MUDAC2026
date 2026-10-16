@@ -1,0 +1,236 @@
+library(tidyverse)
+file_path <- read.csv("C:/Users/kbmar/OneDrive - University of Wisconsin - Platteville/CPIdata.csv",skip = 11, check.names = FALSE)
+Food_shelf_activity <- read_csv("C:/Users/kbmar/Downloads/FoodShelfdata cleanerv2.csv")
+
+#Making sure _Month and _Year match DateForSearch
+fsa_cleaned <- Food_shelf_activity |> 
+  mutate(`_Month`= month(DateForSearch),`_Year`= year(DateForSearch)) |> 
+  arrange(`_Month`)
+
+fsa_cleaned <- fsa_cleaned |>
+  mutate(
+    HouseholdsReg = if_else(
+      `__ID` == (22677),
+      0,
+      as.numeric(HouseholdsReg)
+    )
+  )
+fsa_cleaned <- fsa_cleaned |>
+  mutate(
+    HouseholdsReg = if_else(
+      `__ID` == (33141),
+      0,
+      as.numeric(HouseholdsReg)
+    )
+  )
+fsa_cleaned <- fsa_cleaned |> mutate(
+  PoundsReg = if_else(
+    PoundsReg <= 0,
+    0,
+    as.numeric(PoundsReg)
+  )
+)
+
+#Clean the CPI Data
+cpi_clean <- file_path |> 
+  mutate(Year = as.numeric(Year)) |> 
+  filter(Year >= 2022 & Year <= 2026) |> 
+  pivot_longer(
+    cols = c(Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec),
+    names_to = "Month",
+    values_to = "CPI"
+  ) 
+cpi_clean <- cpi_clean |>
+  mutate(
+    Month_num = match(Month, month.abb),   # Converts "Jan", "Feb" to 1, 2, etc
+    Date = make_date(Year, Month_num, 1)   # Creates a Date object (e.g., 2022-01-01)
+  ) 
+cpi_clean <- cpi_clean |> 
+  filter(
+    cpi_clean$Date >= as.Date("2022-01-01"),
+    cpi_clean$Date <= as.Date("2026-07-01")
+  )
+#Total reporting for Visits, Pounds Distributed, and Individuals served 
+#for each month in minnesota 
+
+food_monthly <- fsa_cleaned |>
+  filter(
+    DateForSearch >= as.Date("2022-01-01"),
+    DateForSearch <= as.Date("2026-07-31")
+  ) |>
+  group_by(
+    Date = floor_date(DateForSearch, "month")
+  ) |>
+  summarise(
+    Visits = sum(HouseholdsReg, na.rm = TRUE),
+    "Pounds Distributed" = sum(PoundsReg, na.rm = TRUE),
+    "Individuals Served" = sum(IndividualsReg, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  arrange(Date)
+
+fsa_cleaned <- fsa_cleaned |> 
+  mutate(FoodBank = sub("\\*$", "", FoodBank))
+
+FSA_CPI <- food_monthly |>
+  inner_join(cpi_clean, by = "Date") |>
+  arrange(Date) |> 
+  mutate(Trend = row_number()) 
+
+#Graph if CPI over time 
+FSA_CPI |> 
+  ggplot(aes(x = Date, y = CPI)) + 
+  geom_line(linewidth = 1) +
+  theme_minimal() +
+  labs(
+    title = "Consumer Price Index (CPI) Over Time",
+    x = "Date",
+    y = "CPI"
+  )
+FSA_CPI |> ggplot(aes(x = Date, y = Visits)) +
+  geom_line(linewidth = 1) +
+  theme_minimal() +
+  labs(title = "Households Served Over Time",
+       x = "Date", y = "Households")
+
+FSA_CPI |> ggplot(aes(x = Date, y = `Pounds Distributed`)) +
+  geom_line(linewidth = 1) +
+  theme_minimal() +
+  labs(title = "Pounds Distributed Over Time",
+       x = "Date", y = "Pounds")
+
+FSA_CPI |> ggplot(aes(x = Date, y = `Individuals Served`)) +
+  geom_line(linewidth = 1) +
+  theme_minimal() +
+  labs(title = "Individuals Served Over Time",
+       x = "Date", y = "Individuals")
+
+# Covariance and correlation 
+cov_cor_results <- FSA_CPI |>
+  select(
+    CPI,
+    Visits,
+    `Pounds Distributed`,
+    `Individuals Served`
+  ) |>
+  pivot_longer(
+    cols = -CPI,
+    names_to = "Metric",
+    values_to = "Activity"
+  ) |>
+  group_by(Metric) |>
+  summarise(
+    Covariance = cov(CPI, Activity, use = "complete.obs"),
+    Correlation = cor(CPI, Activity, use = "complete.obs"),
+    .groups = "drop"
+  )
+
+print(cov_cor_results)
+
+
+FSA_CPI |>
+  select(
+    CPI,
+    Visits,
+    `Pounds Distributed`,
+    `Individuals Served`
+  ) |>
+  pivot_longer(
+    cols = -CPI,
+    names_to = "Metric",
+    values_to = "Activity"
+  ) |>
+  ggplot(aes(x = CPI, y = Activity)) +
+  geom_point() +
+  geom_smooth(
+    method = "lm",
+    se = FALSE,
+    color = "red"
+  ) +
+  facet_wrap(~ Metric, scales = "free_y") +
+  theme_minimal() +
+  labs(
+    title = "CPI and Minnesota Food Shelf Activity",
+    x = "Consumer Price Index",
+    y = "Monthly Food Shelf Activity"
+  )
+
+FSA_CPI <- FSA_CPI |>
+  arrange(Date) |>
+  mutate(
+    CPI_Detrended = residuals(
+      lm(CPI ~ Trend, data = FSA_CPI, na.action = na.exclude)
+    ),
+    
+    Visits_Detrended = residuals(
+      lm(Visits ~ Trend, data = FSA_CPI, na.action = na.exclude)
+    ),
+    
+    Pounds_Detrended = residuals(
+      lm(`Pounds Distributed` ~ Trend,
+         data = FSA_CPI,
+         na.action = na.exclude)
+    ),
+    
+    Individuals_Detrended = residuals(
+      lm(`Individuals Served` ~ Trend,
+         data = FSA_CPI,
+         na.action = na.exclude)
+    )
+  )
+
+detrended_lags <- tibble(
+  Lag = 0:12,
+  
+  Visits = sapply(0:12, function(k) {
+    cor(
+      FSA_CPI$Visits_Detrended,
+      lag(FSA_CPI$CPI_Detrended, k),
+      use = "complete.obs"
+    )
+  }),
+  
+  Pounds = sapply(0:12, function(k) {
+    cor(
+      FSA_CPI$Pounds_Detrended,
+      lag(FSA_CPI$CPI_Detrended, k),
+      use = "complete.obs"
+    )
+  }),
+  
+  Individuals = sapply(0:12, function(k) {
+    cor(
+      FSA_CPI$Individuals_Detrended,
+      lag(FSA_CPI$CPI_Detrended, k),
+      use = "complete.obs"
+    )
+  })
+)
+
+print(detrended_lags)
+
+detrended_lags |>
+  pivot_longer(
+    cols = c(Visits, Pounds, Individuals),
+    names_to = "Metric",
+    values_to = "Correlation"
+  ) |>
+  ggplot(aes(
+    x = Lag,
+    y = Correlation,
+    color = Metric
+  )) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  geom_hline(
+    yintercept = 0,
+    linetype = "dashed"
+  ) +
+  scale_x_continuous(breaks = 0:12) +
+  theme_minimal() +
+  labs(
+    title = "Delayed Relationship Between CPI and Food Shelf Activity",
+    x = "CPI Lag (Months)",
+    y = "Pearson Correlation (r)",
+    color = "Food Shelf Metric"
+  )
