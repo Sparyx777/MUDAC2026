@@ -35,7 +35,7 @@ max(avg_pounds_per_site$site_Id)
 
 Q1 <- quantile(avg_pounds_per_site$average_pounds, .25)
 Q3 <- quantile(avg_pounds_per_site$average_pounds, .75)
-IQR_val <= IQR(avg_pounds_per_site$average_pounds)
+IQR_val <- IQR(avg_pounds_per_site$average_pounds)
 avg_pounds_per_site <- avg_pounds_per_site |>  
   filter(average_pounds >= (quantile(average_pounds, 0.25)-1.5*IQR(average_pounds)) & 
            average_pounds <= (quantile(average_pounds, 0.75)+1.5 * IQR(average_pounds)))
@@ -51,6 +51,10 @@ ggplot(avg_pounds_per_site, aes(x = site_Id, y = average_pounds, fill = site_Id)
 LBS_PER_MEAL = 1.2 #https://www.feedingamerica.org/ways-to-give/faq/about-our-claims
 
 FeedMurica
+FeedMurica <- FeedMurica |> 
+  rename("IndividualsReg" = X..of.Food.Insecure.Persons.Overall, "PoundsReg" = Month.LBS.FD.per.Individual.Short)
+FeedMurica
 
-MNCOHH <- read.csv("MNCounty_HH_Totals.csv")
+MNCOHH <- read.csv("MNCounty_HH_Totals.csv") #Minnesota Counties Households = MN CO HH = MNCOHH, 2024-2019 data (5 year estimates)
 MNCOHH
+
