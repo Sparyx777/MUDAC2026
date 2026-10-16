@@ -1,0 +1,88 @@
+﻿FIPS,State,CO_Name, State,,Year,Overall Food Insecurity Rate,# of Food Insecure Persons Overall,Food Insecurity Rate among Black Persons (all ethnicities),Food Insecurity Rate among Hispanic Persons (any race),"Food Insecurity Rate among White, non-Hispanic Persons",SNAP Threshold,% FI ≤ SNAP Threshold,% FI > SNAP Threshold,Child Food Insecurity Rate,# of Food Insecure Children,% food insecure children in HH w/ HH incomes below 185 FPL,% food insecure children in HH w/ HH incomes above 185 FPL,Imputed Market Basket Data,Cost Per Meal,Weighted weekly $ needed by FI,# of Meals,Weekly pounds,Weighted Annual Food Budget Shortfall,Month LBS FD Per Individual Short,Rural-Urban Continuum Code (2013),Rural-Urban Continuum Code (2023),Census Region,Census Division,FNS Region
+27001,MN,Aitkin , Minnesota,,2024,15.0%,"2,420",,,11%,200%,74%,26%,22.0%,550,68%,32%,imputed,$3.86,$24.15,6.26,7.51,"$1,773,000",45932.64,8,8,Midwest,West North Central,Midwest
+27003,MN,Anoka , Minnesota,,2024,8.9%,"32,940",30%,21%,7%,200%,55%,46%,14.3%,"12,540",62%,38%,,$3.94,$24.68,6.26,7.52,"$24,662,000",625939.09,1,1,Midwest,West North Central,Midwest
+27005,MN,Becker , Minnesota,,2024,13.5%,"4,760",,42%,9%,200%,68%,32%,19.2%,"1,580",82%,19%,,$3.79,$23.72,6.26,7.51,"$3,424,000",90343.01,6,6,Midwest,West North Central,Midwest
+27007,MN,Beltrami , Minnesota,,2024,15.0%,"7,000",,29%,11%,200%,76%,24%,20.7%,"2,380",82%,18%,,$3.59,$22.47,6.26,7.51,"$4,771,000",132896.94,7,7,Midwest,West North Central,Midwest
+27009,MN,Benton , Minnesota,,2024,12.6%,"5,250",45%,24%,9%,200%,60%,40%,17.9%,"1,880",64%,36%,,$4.25,$26.63,6.27,7.52,"$4,241,000",99788.24,3,3,Midwest,West North Central,Midwest
+27011,MN,Big Stone , Minnesota,,2024,13.4%,690,,,10%,200%,62%,38%,19.2%,220,69%,31%,imputed,$3.60,$22.56,6.27,7.52,"$472,000",13111.11,9,9,Midwest,West North Central,Midwest
+27013,MN,Blue Earth , Minnesota,,2024,13.2%,"9,190",37%,29%,12%,200%,73%,27%,16.8%,"2,310",70%,30%,,$3.95,$24.73,6.26,7.51,"$6,894,000",174531.65,3,3,Midwest,West North Central,Midwest
+27015,MN,Brown , Minnesota,,2024,11.0%,"2,830",,25%,8%,200%,63%,37%,14.1%,790,72%,28%,,$3.76,$23.54,6.26,7.51,"$2,021,000",53750.00,6,6,Midwest,West North Central,Midwest
+27017,MN,Carlton , Minnesota,,2024,13.0%,"4,730",54%,,10%,200%,62%,38%,18.1%,"1,420",65%,35%,,$3.69,$23.07,6.25,7.50,"$3,310,000",89701.90,2,2,Midwest,West North Central,Midwest
+27019,MN,Carver , Minnesota,,2024,7.8%,"8,570",46%,19%,5%,200%,35%,65%,10.4%,"2,900",23%,77%,,$4.50,$28.17,6.26,7.51,"$7,324,000",162755.56,1,1,Midwest,West North Central,Midwest
+27021,MN,Cass , Minnesota,,2024,13.2%,"4,090",,24%,9%,200%,77%,23%,19.9%,"1,230",91%,9%,,$4.18,$26.18,6.26,7.52,"$3,247,000",77679.43,9,9,Midwest,West North Central,Midwest
+27023,MN,Chippewa , Minnesota,,2024,14.6%,"1,810",,28%,10%,200%,69%,32%,22.5%,680,77%,23%,imputed,$3.72,$23.27,6.26,7.51,"$1,278,000",34354.84,7,7,Midwest,West North Central,Midwest
+27025,MN,Chisago , Minnesota,,2024,9.0%,"5,230",31%,21%,7%,200%,48%,52%,13.8%,"1,790",41%,59%,,$5.08,$31.78,6.26,7.51,"$5,041,000",99232.28,1,1,Midwest,West North Central,Midwest
+27027,MN,Clay , Minnesota,,2024,12.8%,"8,480",39%,23%,11%,200%,57%,43%,16.5%,"2,690",54%,47%,,$3.83,$23.98,6.26,7.51,"$6,167,000",161018.28,3,3,Midwest,West North Central,Midwest
+27029,MN,Clearwater , Minnesota,,2024,15.1%,"1,300",,,11%,200%,73%,28%,20.8%,450,75%,25%,imputed,$3.59,$22.47,6.26,7.51,"$886,000",24679.67,8,8,Midwest,West North Central,Midwest
+27031,MN,Cook , Minnesota,,2024,12.0%,680,,,8%,200%,57%,43%,22.2%,180,70%,30%,imputed,$3.80,$23.79,6.26,7.51,"$491,000",12921.05,9,9,Midwest,West North Central,Midwest
+27033,MN,Cottonwood , Minnesota,,2024,14.2%,"1,630",,30%,9%,200%,65%,35%,19.5%,560,75%,25%,imputed,$3.28,$20.55,6.27,7.52,"$1,016,000",30975.61,7,9,Midwest,West North Central,Midwest
+27035,MN,Crow Wing , Minnesota,,2024,12.9%,"8,750",,26%,11%,200%,67%,34%,19.2%,"2,660",78%,22%,,$3.86,$24.15,6.26,7.51,"$6,411,000",166088.08,4,4,Midwest,West North Central,Midwest
+27037,MN,Dakota , Minnesota,,2024,9.4%,"41,960",32%,25%,7%,200%,47%,53%,14.0%,"15,010",50%,50%,,$4.13,$25.83,6.25,7.51,"$32,882,000",796174.33,1,1,Midwest,West North Central,Midwest
+27039,MN,Dodge , Minnesota,,2024,9.3%,"1,960",,24%,6%,200%,53%,47%,13.7%,730,51%,49%,,$4.20,$26.28,6.26,7.51,"$1,562,000",37190.48,3,3,Midwest,West North Central,Midwest
+27041,MN,Douglas , Minnesota,,2024,11.0%,"4,340",,25%,9%,200%,57%,43%,14.1%,"1,200",61%,39%,,$3.85,$24.10,6.26,7.51,"$3,173,000",82415.58,6,6,Midwest,West North Central,Midwest
+27043,MN,Faribault , Minnesota,,2024,12.9%,"1,800",,27%,10%,200%,75%,25%,19.1%,590,83%,18%,imputed,$3.67,$23.00,6.27,7.52,"$1,256,000",34223.43,6,8,Midwest,West North Central,Midwest
+27045,MN,Fillmore , Minnesota,,2024,10.0%,"2,140",,,8%,200%,65%,35%,14.6%,760,67%,33%,,$4.34,$27.14,6.25,7.50,"$1,762,000",40599.08,3,3,Midwest,West North Central,Midwest
+27047,MN,Freeborn , Minnesota,,2024,12.8%,"3,910",,31%,9%,200%,72%,29%,16.6%,"1,110",73%,27%,,$3.67,$23.00,6.27,7.52,"$2,728,000",74332.43,7,7,Midwest,West North Central,Midwest
+27049,MN,Goodhue , Minnesota,,2024,10.9%,"5,200",,22%,8%,200%,55%,45%,14.5%,"1,520",56%,44%,,$3.89,$24.32,6.25,7.50,"$3,836,000",98611.83,4,6,Midwest,West North Central,Midwest
+27051,MN,Grant , Minnesota,,2024,12.8%,780,,,10%,200%,74%,26%,20.3%,290,72%,28%,imputed,$3.85,$24.10,6.26,7.51,"$570,000",14805.19,9,9,Midwest,West North Central,Midwest
+27053,MN,Hennepin , Minnesota,,2024,11.3%,"143,160",36%,25%,8%,200%,52%,48%,15.3%,"41,950",60%,41%,,$4.56,$28.56,6.26,7.52,"$124,020,000",2719736.84,1,1,Midwest,West North Central,Midwest
+27055,MN,Houston , Minnesota,,2024,9.2%,"1,720",,,7%,200%,62%,38%,11.9%,480,57%,43%,imputed,$4.06,$25.38,6.25,7.50,"$1,324,000",32610.84,3,3,Midwest,West North Central,Midwest
+27057,MN,Hubbard , Minnesota,,2024,12.8%,"2,800",,,9%,200%,73%,27%,18.9%,860,84%,16%,,$3.64,$22.79,6.26,7.51,"$1,935,000",53159.34,7,9,Midwest,West North Central,Midwest
+27059,MN,Isanti , Minnesota,,2024,10.6%,"4,500",,,8%,200%,59%,42%,14.5%,"1,440",57%,43%,,$3.84,$24.04,6.26,7.51,"$3,282,000",85468.75,1,1,Midwest,West North Central,Midwest
+27061,MN,Itasca , Minnesota,,2024,13.9%,"6,300",,25%,11%,200%,72%,29%,19.8%,"1,800",67%,34%,,$3.67,$22.98,6.26,7.51,"$4,392,000",119673.02,6,6,Midwest,West North Central,Midwest
+27063,MN,Jackson , Minnesota,,2024,11.0%,"1,090",,,8%,200%,63%,37%,17.0%,370,49%,51%,imputed,$3.28,$20.55,6.27,7.52,"$679,000",20701.22,7,9,Midwest,West North Central,Midwest
+27065,MN,Kanabec , Minnesota,,2024,13.1%,"2,150",,,10%,200%,76%,25%,18.9%,660,78%,22%,imputed,$3.60,$22.53,6.26,7.51,"$1,469,000",40805.56,6,8,Midwest,West North Central,Midwest
+27067,MN,Kandiyohi , Minnesota,,2024,12.9%,"5,680",37%,31%,9%,200%,65%,35%,18.6%,"2,010",66%,34%,,$3.72,$23.27,6.26,7.51,"$4,009,000",107768.82,4,4,Midwest,West North Central,Midwest
+27069,MN,Kittson , Minnesota,,2024,9.8%,400,,,8%,200%,61%,39%,14.2%,130,52%,48%,imputed,$3.68,$23.05,6.26,7.52,"$280,000",7608.70,9,9,Midwest,West North Central,Midwest
+27071,MN,Koochiching , Minnesota,,2024,14.3%,"1,690",,,11%,200%,66%,34%,20.4%,420,82%,19%,imputed,$3.67,$22.98,6.26,7.51,"$1,178,000",32098.09,6,7,Midwest,West North Central,Midwest
+27073,MN,Lac qui Parle , Minnesota,,2024,11.2%,750,,,8%,200%,66%,35%,14.9%,220,52%,48%,imputed,$3.66,$22.89,6.25,7.50,"$521,000",14234.97,9,9,Midwest,West North Central,Midwest
+27075,MN,Lake , Minnesota,,2024,11.6%,"1,270",,,9%,200%,68%,32%,18.5%,380,70%,30%,imputed,$3.84,$24.04,6.26,7.51,"$926,000",24114.58,6,8,Midwest,West North Central,Midwest
+27077,MN,Lake of the Woods , Minnesota,,2024,10.7%,410,,,7%,200%,69%,31%,18.5%,130,82%,19%,imputed,$3.59,$22.47,6.26,7.51,"$279,000",7771.59,9,9,Midwest,West North Central,Midwest
+27079,MN,Le Sueur , Minnesota,,2024,10.6%,"3,100",,22%,7%,200%,51%,49%,15.0%,"1,000",43%,57%,,$4.40,$27.53,6.26,7.51,"$2,588,000",58818.18,1,1,Midwest,West North Central,Midwest
+27081,MN,Lincoln , Minnesota,,2024,12.2%,680,,,10%,200%,70%,30%,16.7%,210,73%,27%,imputed,$3.66,$22.89,6.25,7.50,"$472,000",12896.17,9,9,Midwest,West North Central,Midwest
+27083,MN,Lyon , Minnesota,,2024,13.0%,"3,320",35%,28%,9%,200%,70%,30%,16.9%,"1,120",74%,26%,,$3.66,$22.89,6.25,7.50,"$2,305,000",62978.14,7,7,Midwest,West North Central,Midwest
+27085,MN,McLeod , Minnesota,,2024,12.0%,"4,410",,28%,9%,200%,56%,44%,16.0%,"1,290",70%,30%,,$3.82,$23.93,6.26,7.52,"$3,201,000",83795.81,6,4,Midwest,West North Central,Midwest
+27087,MN,Mahnomen , Minnesota,,2024,16.7%,900,,,10%,200%,86%,14%,26.1%,430,98%,3%,imputed,$3.79,$23.72,6.26,7.51,"$647,000",17071.24,8,8,Midwest,West North Central,Midwest
+27089,MN,Marshall , Minnesota,,2024,11.5%,"1,030",,,9%,200%,65%,35%,15.9%,330,69%,31%,imputed,$3.68,$23.05,6.26,7.52,"$720,000",19565.22,8,8,Midwest,West North Central,Midwest
+27091,MN,Martin , Minnesota,,2024,15.4%,"3,040",,28%,12%,200%,83%,17%,22.2%,"1,000",97%,3%,imputed,$3.95,$24.73,6.26,7.51,"$2,280,000",57721.52,7,6,Midwest,West North Central,Midwest
+27093,MN,Meeker , Minnesota,,2024,11.8%,"2,770",,28%,9%,200%,64%,36%,15.9%,880,68%,32%,,$3.62,$22.64,6.25,7.50,"$1,902,000",52541.44,6,6,Midwest,West North Central,Midwest
+27095,MN,Mille Lacs , Minnesota,,2024,13.5%,"3,670",,26%,9%,200%,69%,31%,19.4%,"1,220",75%,26%,,$3.60,$22.53,6.26,7.51,"$2,508,000",69666.67,1,1,Midwest,West North Central,Midwest
+27097,MN,Morrison , Minnesota,,2024,12.7%,"4,350",,20%,10%,200%,69%,31%,18.0%,"1,420",63%,38%,,$3.64,$22.81,6.27,7.52,"$3,010,000",82692.31,6,6,Midwest,West North Central,Midwest
+27099,MN,Mower , Minnesota,,2024,12.2%,"4,930",26%,26%,8%,200%,71%,29%,18.4%,"1,900",81%,19%,,$3.58,$22.43,6.27,7.52,"$3,355,000",93715.08,4,4,Midwest,West North Central,Midwest
+27101,MN,Murray , Minnesota,,2024,11.6%,940,,,9%,200%,64%,36%,16.4%,290,59%,41%,imputed,$3.28,$20.55,6.27,7.52,"$586,000",17865.85,9,9,Midwest,West North Central,Midwest
+27103,MN,Nicollet , Minnesota,,2024,11.2%,"3,840",,19%,8%,200%,53%,47%,15.5%,"1,140",48%,52%,,$4.28,$26.80,6.26,7.51,"$3,122,000",72943.93,3,3,Midwest,West North Central,Midwest
+27105,MN,Nobles , Minnesota,,2024,15.2%,"3,340",32%,26%,8%,200%,78%,22%,20.6%,"1,310",89%,11%,,$3.28,$20.55,6.27,7.52,"$2,082,000",63475.61,7,7,Midwest,West North Central,Midwest
+27107,MN,Norman , Minnesota,,2024,12.2%,770,,,10%,200%,67%,33%,17.2%,260,72%,28%,imputed,$3.83,$23.98,6.26,7.51,"$560,000",14621.41,8,8,Midwest,West North Central,Midwest
+27109,MN,Olmsted , Minnesota,,2024,10.0%,"16,490",38%,24%,8%,200%,50%,50%,13.9%,"5,490",54%,46%,,$3.93,$24.61,6.26,7.51,"$12,310,000",313231.55,3,3,Midwest,West North Central,Midwest
+27111,MN,Otter Tail , Minnesota,,2024,11.9%,"7,220",39%,31%,9%,200%,68%,33%,16.7%,"2,200",78%,22%,,$3.56,$22.26,6.25,7.50,"$4,876,000",136966.29,6,6,Midwest,West North Central,Midwest
+27113,MN,Pennington , Minnesota,,2024,14.0%,"1,930",,31%,10%,200%,59%,42%,16.6%,480,52%,48%,imputed,$3.60,$22.51,6.25,7.50,"$1,318,000",36611.11,6,6,Midwest,West North Central,Midwest
+27115,MN,Pine , Minnesota,,2024,14.1%,"4,190",,28%,10%,200%,68%,32%,20.2%,"1,140",67%,33%,,$3.64,$22.78,6.26,7.51,"$2,895,000",79532.97,6,8,Midwest,West North Central,Midwest
+27117,MN,Pipestone , Minnesota,,2024,12.3%,"1,150",,26%,9%,200%,75%,25%,16.1%,400,96%,4%,imputed,$3.68,$23.03,6.26,7.51,"$803,000",21820.65,6,8,Midwest,West North Central,Midwest
+27119,MN,Polk , Minnesota,,2024,13.0%,"3,980",,37%,9%,200%,60%,40%,18.2%,"1,360",63%,37%,,$3.60,$22.51,6.25,7.50,"$2,717,000",75472.22,3,3,Midwest,West North Central,Midwest
+27121,MN,Pope , Minnesota,,2024,11.2%,"1,280",,,8%,200%,57%,43%,13.7%,330,56%,44%,imputed,$3.85,$24.10,6.26,7.51,"$936,000",24311.69,8,8,Midwest,West North Central,Midwest
+27123,MN,Ramsey , Minnesota,,2024,13.1%,"71,270",36%,27%,10%,200%,64%,36%,20.0%,"25,060",79%,21%,,$4.33,$27.11,6.26,7.51,"$58,611,000",1353602.77,1,1,Midwest,West North Central,Midwest
+27125,MN,Red Lake , Minnesota,,2024,11.0%,430,,,7%,200%,59%,41%,13.5%,130,52%,48%,imputed,$3.60,$22.51,6.25,7.50,"$294,000",8166.67,8,8,Midwest,West North Central,Midwest
+27127,MN,Redwood , Minnesota,,2024,13.0%,"1,990",,21%,9%,200%,69%,31%,16.4%,620,78%,22%,imputed,$3.66,$22.89,6.25,7.50,"$1,382,000",37759.56,7,9,Midwest,West North Central,Midwest
+27129,MN,Renville , Minnesota,,2024,13.0%,"1,890",,29%,8%,200%,72%,28%,18.5%,630,80%,20%,imputed,$3.72,$23.27,6.26,7.51,"$1,334,000",35860.22,8,9,Midwest,West North Central,Midwest
+27131,MN,Rice , Minnesota,,2024,11.0%,"7,490",38%,26%,8%,200%,53%,47%,16.3%,"2,370",67%,33%,,$4.11,$25.73,6.26,7.51,"$5,845,000",142214.11,4,4,Midwest,West North Central,Midwest
+27133,MN,Rock , Minnesota,,2024,10.5%,"1,010",,,9%,200%,65%,35%,14.6%,340,70%,30%,imputed,$3.72,$23.26,6.25,7.50,"$712,000",19139.78,6,2,Midwest,West North Central,Midwest
+27135,MN,Roseau , Minnesota,,2024,11.8%,"1,800",,,9%,200%,63%,37%,17.2%,630,71%,29%,imputed,$3.60,$22.51,6.25,7.50,"$1,229,000",34138.89,7,9,Midwest,West North Central,Midwest
+27137,MN,St. Louis , Minnesota,,2024,13.8%,"27,590",53%,29%,11%,200%,70%,30%,18.6%,"6,900",68%,32%,,$3.84,$24.04,6.26,7.51,"$20,119,000",523932.29,2,2,Midwest,West North Central,Midwest
+27139,MN,Scott , Minnesota,,2024,7.1%,"11,040",34%,19%,5%,200%,48%,52%,10.7%,"4,270",51%,49%,,$4.20,$26.28,6.26,7.51,"$8,801,000",209547.62,1,1,Midwest,West North Central,Midwest
+27141,MN,Sherburne , Minnesota,,2024,8.3%,"8,370",32%,17%,6%,200%,50%,50%,12.1%,"3,130",51%,49%,,$4.14,$25.90,6.26,7.51,"$6,576,000",158840.58,1,1,Midwest,West North Central,Midwest
+27143,MN,Sibley , Minnesota,,2024,12.3%,"1,850",,31%,8%,200%,61%,39%,16.3%,550,65%,35%,imputed,$3.82,$23.93,6.26,7.52,"$1,343,000",35157.07,1,8,Midwest,West North Central,Midwest
+27145,MN,Stearns , Minnesota,,2024,12.2%,"19,670",41%,24%,10%,200%,65%,35%,17.2%,"6,550",68%,32%,,$3.72,$23.26,6.25,7.50,"$13,879,000",373091.40,3,3,Midwest,West North Central,Midwest
+27147,MN,Steele , Minnesota,,2024,11.0%,"4,100",36%,26%,8%,200%,62%,38%,14.6%,"1,330",73%,27%,,$3.94,$24.68,6.26,7.52,"$3,070,000",77918.78,5,5,Midwest,West North Central,Midwest
+27149,MN,Stevens , Minnesota,,2024,13.0%,"1,270",,25%,9%,200%,65%,35%,17.2%,370,67%,33%,imputed,$3.85,$24.10,6.26,7.51,"$929,000",24129.87,7,7,Midwest,West North Central,Midwest
+27151,MN,Swift , Minnesota,,2024,15.7%,"1,530",,41%,11%,200%,81%,19%,22.1%,480,95%,5%,imputed,$3.72,$23.27,6.26,7.51,"$1,080,000",29032.26,7,9,Midwest,West North Central,Midwest
+27153,MN,Todd , Minnesota,,2024,12.6%,"3,220",,27%,9%,200%,79%,21%,18.7%,"1,180",91%,9%,,$3.91,$24.49,6.26,7.52,"$2,392,000",61176.47,6,8,Midwest,West North Central,Midwest
+27155,MN,Traverse , Minnesota,,2024,13.2%,430,,,10%,200%,77%,23%,17.7%,120,89%,11%,imputed,$3.85,$24.10,6.26,7.51,"$314,000",8155.84,9,9,Midwest,West North Central,Midwest
+27157,MN,Wabasha , Minnesota,,2024,9.7%,"2,080",,34%,7%,200%,52%,48%,12.7%,600,54%,46%,,$4.13,$25.85,6.26,7.51,"$1,631,000",39491.53,3,3,Midwest,West North Central,Midwest
+27159,MN,Wadena , Minnesota,,2024,13.9%,"1,990",,,12%,200%,76%,24%,19.0%,710,73%,27%,imputed,$3.64,$22.79,6.26,7.51,"$1,376,000",37802.20,7,9,Midwest,West North Central,Midwest
+27161,MN,Waseca , Minnesota,,2024,10.9%,"2,060",,20%,8%,200%,72%,28%,16.1%,690,52%,48%,imputed,$3.94,$24.68,6.26,7.52,"$1,542,000",39137.06,6,6,Midwest,West North Central,Midwest
+27163,MN,Washington , Minnesota,,2024,8.1%,"22,480",28%,19%,6%,200%,44%,56%,11.3%,"7,460",40%,60%,,$4.17,$26.11,6.26,7.51,"$17,807,000",427026.38,1,1,Midwest,West North Central,Midwest
+27165,MN,Watonwan , Minnesota,,2024,14.9%,"1,670",,26%,8%,200%,68%,32%,18.8%,550,78%,22%,imputed,$3.76,$23.54,6.26,7.51,"$1,193,000",31728.72,6,8,Midwest,West North Central,Midwest
+27167,MN,Wilkin , Minnesota,,2024,12.8%,810,,,10%,200%,68%,32%,15.4%,220,75%,25%,imputed,$3.56,$22.26,6.25,7.50,"$547,000",15365.17,6,8,Midwest,West North Central,Midwest
+27169,MN,Winona , Minnesota,,2024,12.3%,"6,110",,25%,10%,200%,67%,33%,15.4%,"1,350",64%,36%,,$3.90,$24.39,6.25,7.50,"$4,521,000",115923.08,4,4,Midwest,West North Central,Midwest
+27171,MN,Wright , Minnesota,,2024,7.9%,"11,730",23%,19%,6%,200%,48%,52%,11.6%,"4,680",49%,51%,,$4.19,$26.21,6.26,7.51,"$9,325,000",222553.70,1,1,Midwest,West North Central,Midwest
+27173,MN,Yellow Medicine , Minnesota,,2024,11.0%,"1,040",,29%,8%,200%,76%,25%,15.9%,340,74%,26%,imputed,$3.66,$22.89,6.25,7.50,"$722,000",19726.78,9,9,Midwest,West North Central,Midwest
