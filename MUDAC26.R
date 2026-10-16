@@ -57,6 +57,7 @@ MMG2024v2 <- as.data.frame(MMG2024)
 MMG2024v2
 
 colnames(FeedMurica)
+print(sapply(FeedMurica, class))
 colnames(MMG2024v2)
 colnames(foodShelves)
 
@@ -72,6 +73,11 @@ FeedMurica <- bind_rows(FeedMurica, MMG2024v2)
 FeedMurica <- FeedMurica |> 
   rename("IndividualsReg" = X..of.Food.Insecure.Persons.Overall, "PoundsReg" = Month.LBS.FD.per.Individual.Short, "CO_NAME" = CO_Name)
 FeedMurica
+print(sapply(FeedMurica, class))
+FeedMurica$IndividualsReg <- ceiling(as.integer(gsub(",", "", FeedMurica$IndividualsReg)))
+FeedMurica
+print(sapply(FeedMurica, class))
+
 
 MNCOHH <- read.csv("MNCounty_HH_Totals.csv") #Minnesota Counties Households = MN CO HH = MNCOHH, 2024-2019 data (5 year estimates)
 MNCOHH
@@ -96,7 +102,12 @@ FeedMurica_strip <- FeedMurica_MNCOHH |> select(CO_NAME, IndividualsReg,Househol
 FeedMurica_strip$Dataset <- "Need"
 FeedMurica_strip
 
-numbah1 <- FeedMurica_strip |> left_join(foodShelves_strip, by = c("CO_NAME", "IndividualsReg", "PoundsReg", "HouseholdsReg"))
+print(sapply(FeedMurica_strip, class))
+print(sapply(foodShelves_strip, class))
+
+FeedMurica_strip$IndividualsReg <- ceiling(as.integer(FeedMurica_strip$IndividualsReg))
+
+numbah1 <- FeedMurica_strip |> left_join(foodShelves_sFeedMurica_stripnumbah1 <- FeedMurica_strip |> left_join(foodShelves_strip, by = c("CO_NAME", "IndividualsReg", "PoundsReg", "HouseholdsReg", "Dataset")))
 numbah1
 
 
@@ -105,3 +116,4 @@ numbah1a <- ggplot(aes(numbah1, x = CO_NAME, y = IndividualsReg, fill = Dataset)
   labs(x = "Counties", 
        y = "Individuals")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+
